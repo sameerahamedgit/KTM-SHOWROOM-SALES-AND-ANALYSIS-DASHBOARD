@@ -1,0 +1,1201 @@
+﻿Order_ID,Date,City,Showroom,Bike_Model,Category,Units_Sold,Price,Revenue,Customer_Type,Sales_Executive,Payment_Mode
+1001,2024-02-22,Chennai,T Nagar,Duke 390,Naked,2,300000,600000,New,Kumar,Card
+1002,2024-09-15,Chennai,Velachery,Duke 200,Naked,1,200000,200000,New,Kumar,Cash
+1003,2024-05-22,Chennai,T Nagar,RC 390,Sports,4,350000,1400000,New,Priya,Card
+1004,2024-06-21,Chennai,T Nagar,RC 200,Sports,3,210000,630000,Returning,Kumar,Cash
+1005,2024-05-15,Chennai,T Nagar,RC 200,Sports,1,210000,210000,Returning,Arjun,Card
+1006,2024-05-30,Chennai,Velachery,RC 390,Sports,1,350000,350000,Returning,Ravi,Card
+1007,2024-04-29,Hyderabad,Banjara Hills,Duke 200,Naked,1,200000,200000,New,Arjun,Cash
+1008,2024-06-30,Chennai,Velachery,Duke 390,Naked,4,300000,1200000,Returning,Kumar,EMI
+1009,2024-05-05,Bangalore,Whitefield,Duke 200,Naked,5,200000,1000000,New,Sneha,Card
+1010,2024-04-27,Bangalore,Whitefield,RC 200,Sports,3,210000,630000,New,Arjun,Cash
+1011,2024-06-10,Chennai,Velachery,RC 200,Sports,3,210000,630000,New,Kumar,Card
+1012,2024-05-06,Bangalore,Whitefield,RC 200,Sports,4,210000,840000,New,Arjun,Cash
+1013,2024-09-17,Hyderabad,Gachibowli,RC 390,Sports,4,350000,1400000,Returning,Kumar,Cash
+1014,2024-08-04,Mumbai,Andheri,Duke 200,Naked,1,200000,200000,New,Kumar,Card
+1015,2024-10-10,Chennai,Velachery,RC 200,Sports,5,210000,1050000,Returning,Sneha,EMI
+1016,2024-08-10,Chennai,T Nagar,RC 390,Sports,3,350000,1050000,Returning,Ravi,EMI
+1017,2024-11-16,Bangalore,Whitefield,Duke 200,Naked,3,200000,600000,New,Sneha,Cash
+1018,2024-01-01,Hyderabad,Banjara Hills,Duke 250,Naked,3,240000,720000,New,Sneha,Card
+1019,2024-01-30,Hyderabad,Gachibowli,Duke 200,Naked,1,200000,200000,Returning,Arjun,Cash
+1020,2024-03-06,Bangalore,Indiranagar,Duke 200,Naked,4,200000,800000,New,Sneha,Cash
+1021,2024-12-19,Mumbai,Andheri,Duke 390,Naked,5,300000,1500000,Returning,Kumar,Card
+1022,2024-03-02,Bangalore,Whitefield,RC 200,Sports,3,210000,630000,Returning,Sneha,EMI
+1023,2024-04-27,Bangalore,Indiranagar,Duke 200,Naked,3,200000,600000,New,Sneha,Card
+1024,2024-06-18,Bangalore,Indiranagar,Duke 200,Naked,1,200000,200000,New,Ravi,Cash
+1025,2024-10-19,Chennai,T Nagar,Duke 390,Naked,4,300000,1200000,New,Sneha,Cash
+1026,2024-12-03,Mumbai,Andheri,RC 200,Sports,4,210000,840000,New,Ravi,Cash
+1027,2024-11-30,Mumbai,Powai,RC 200,Sports,4,210000,840000,Returning,Ravi,Card
+1028,2024-04-07,Chennai,T Nagar,RC 200,Sports,3,210000,630000,New,Kumar,Cash
+1029,2024-02-08,Mumbai,Andheri,RC 200,Sports,2,210000,420000,Returning,Priya,Cash
+1030,2024-03-26,Mumbai,Andheri,Duke 200,Naked,5,200000,1000000,New,Ravi,Cash
+1031,2024-07-13,Mumbai,Powai,RC 200,Sports,2,210000,420000,Returning,Ravi,Cash
+1032,2024-10-11,Chennai,Velachery,Duke 390,Naked,4,300000,1200000,Returning,Priya,Card
+1033,2024-10-04,Mumbai,Andheri,Duke 250,Naked,3,240000,720000,New,Ravi,Card
+1034,2024-03-21,Chennai,Velachery,Duke 200,Naked,1,200000,200000,Returning,Sneha,Card
+1035,2024-03-02,Chennai,T Nagar,Duke 250,Naked,1,240000,240000,New,Kumar,EMI
+1036,2024-09-24,Bangalore,Indiranagar,RC 390,Sports,1,350000,350000,Returning,Sneha,Card
+1037,2024-03-08,Hyderabad,Gachibowli,Duke 250,Naked,3,240000,720000,New,Arjun,EMI
+1038,2024-10-15,Hyderabad,Gachibowli,Duke 390,Naked,1,300000,300000,New,Priya,Card
+1039,2024-02-05,Chennai,T Nagar,RC 390,Sports,2,350000,700000,Returning,Kumar,EMI
+1040,2024-06-03,Bangalore,Whitefield,Duke 390,Naked,2,300000,600000,Returning,Sneha,Card
+1041,2024-10-10,Chennai,Velachery,Duke 200,Naked,2,200000,400000,Returning,Ravi,Cash
+1042,2024-12-17,Bangalore,Whitefield,Duke 390,Naked,5,300000,1500000,New,Arjun,Cash
+1043,2024-01-23,Hyderabad,Gachibowli,Duke 390,Naked,1,300000,300000,New,Priya,EMI
+1044,2024-12-27,Chennai,Velachery,Duke 250,Naked,3,240000,720000,New,Priya,Card
+1045,2024-07-08,Mumbai,Andheri,Duke 200,Naked,1,200000,200000,New,Sneha,Cash
+1046,2024-07-02,Bangalore,Whitefield,Duke 250,Naked,1,240000,240000,Returning,Arjun,Cash
+1047,2024-03-20,Bangalore,Indiranagar,Duke 200,Naked,3,200000,600000,Returning,Sneha,Card
+1048,2024-06-19,Bangalore,Indiranagar,Duke 250,Naked,4,240000,960000,New,Kumar,Card
+1049,2024-08-28,Mumbai,Andheri,Duke 390,Naked,2,300000,600000,New,Priya,Cash
+1050,2024-01-13,Bangalore,Indiranagar,RC 200,Sports,3,210000,630000,Returning,Kumar,Cash
+1051,2024-11-24,Bangalore,Whitefield,Duke 390,Naked,3,300000,900000,New,Arjun,EMI
+1052,2024-05-15,Mumbai,Powai,Duke 200,Naked,1,200000,200000,Returning,Kumar,Card
+1053,2024-11-06,Chennai,T Nagar,RC 390,Sports,4,350000,1400000,Returning,Arjun,EMI
+1054,2024-08-11,Chennai,Velachery,RC 390,Sports,2,350000,700000,Returning,Ravi,Card
+1055,2024-06-09,Chennai,T Nagar,Duke 390,Naked,4,300000,1200000,New,Arjun,Card
+1056,2024-12-22,Chennai,Velachery,RC 390,Sports,3,350000,1050000,Returning,Arjun,EMI
+1057,2024-10-18,Hyderabad,Banjara Hills,Duke 250,Naked,4,240000,960000,Returning,Kumar,Card
+1058,2024-08-08,Hyderabad,Gachibowli,RC 390,Sports,1,350000,350000,Returning,Arjun,Cash
+1059,2024-03-27,Hyderabad,Gachibowli,RC 200,Sports,4,210000,840000,New,Sneha,EMI
+1060,2024-12-10,Chennai,Velachery,RC 390,Sports,5,350000,1750000,Returning,Ravi,Cash
+1061,2024-08-31,Hyderabad,Banjara Hills,Duke 250,Naked,2,240000,480000,New,Ravi,Cash
+1062,2024-07-23,Chennai,Velachery,RC 200,Sports,5,210000,1050000,New,Priya,EMI
+1063,2024-12-22,Bangalore,Indiranagar,Duke 200,Naked,1,200000,200000,Returning,Kumar,Cash
+1064,2024-08-25,Mumbai,Andheri,RC 390,Sports,2,350000,700000,New,Priya,Cash
+1065,2024-03-22,Hyderabad,Gachibowli,RC 390,Sports,5,350000,1750000,Returning,Sneha,EMI
+1066,2024-11-16,Mumbai,Powai,Duke 390,Naked,2,300000,600000,Returning,Sneha,EMI
+1067,2024-06-20,Bangalore,Whitefield,RC 200,Sports,1,210000,210000,Returning,Kumar,EMI
+1068,2024-03-19,Hyderabad,Banjara Hills,Duke 250,Naked,2,240000,480000,New,Priya,Card
+1069,2024-07-31,Bangalore,Indiranagar,RC 200,Sports,4,210000,840000,Returning,Sneha,EMI
+1070,2024-09-01,Chennai,T Nagar,RC 200,Sports,4,210000,840000,New,Sneha,EMI
+1071,2024-10-06,Chennai,Velachery,Duke 390,Naked,4,300000,1200000,Returning,Sneha,Card
+1072,2024-07-18,Bangalore,Whitefield,Duke 250,Naked,3,240000,720000,Returning,Priya,Cash
+1073,2024-01-14,Hyderabad,Gachibowli,Duke 250,Naked,4,240000,960000,New,Sneha,Card
+1074,2024-01-26,Mumbai,Andheri,Duke 200,Naked,4,200000,800000,New,Priya,Cash
+1075,2024-07-13,Hyderabad,Gachibowli,Duke 390,Naked,2,300000,600000,Returning,Arjun,EMI
+1076,2024-10-03,Hyderabad,Gachibowli,Duke 390,Naked,1,300000,300000,Returning,Ravi,Card
+1077,2024-04-12,Chennai,Velachery,Duke 250,Naked,1,240000,240000,New,Ravi,Cash
+1078,2024-04-21,Chennai,T Nagar,Duke 250,Naked,2,240000,480000,Returning,Ravi,Card
+1079,2024-02-25,Mumbai,Powai,Duke 390,Naked,2,300000,600000,New,Kumar,EMI
+1080,2024-10-30,Chennai,Velachery,RC 390,Sports,4,350000,1400000,Returning,Kumar,Cash
+1081,2024-06-26,Bangalore,Indiranagar,Duke 390,Naked,5,300000,1500000,New,Sneha,Cash
+1082,2024-09-07,Mumbai,Powai,Duke 200,Naked,5,200000,1000000,Returning,Ravi,EMI
+1083,2024-09-24,Chennai,Velachery,Duke 390,Naked,4,300000,1200000,New,Priya,Cash
+1084,2024-02-14,Hyderabad,Gachibowli,RC 200,Sports,4,210000,840000,Returning,Arjun,Cash
+1085,2024-09-10,Hyderabad,Gachibowli,Duke 250,Naked,4,240000,960000,Returning,Arjun,Cash
+1086,2024-05-23,Hyderabad,Banjara Hills,RC 200,Sports,2,210000,420000,Returning,Arjun,EMI
+1087,2024-07-27,Hyderabad,Banjara Hills,RC 390,Sports,2,350000,700000,New,Kumar,Card
+1088,2024-05-30,Mumbai,Andheri,RC 200,Sports,4,210000,840000,Returning,Ravi,Cash
+1089,2024-09-28,Bangalore,Whitefield,Duke 250,Naked,3,240000,720000,Returning,Priya,Card
+1090,2024-06-05,Hyderabad,Gachibowli,RC 390,Sports,3,350000,1050000,Returning,Priya,EMI
+1091,2024-10-01,Hyderabad,Banjara Hills,Duke 200,Naked,2,200000,400000,Returning,Ravi,Card
+1092,2024-11-01,Bangalore,Indiranagar,Duke 250,Naked,4,240000,960000,Returning,Sneha,Card
+1093,2024-06-03,Hyderabad,Banjara Hills,Duke 250,Naked,3,240000,720000,New,Arjun,Cash
+1094,2024-12-23,Chennai,T Nagar,Duke 390,Naked,1,300000,300000,New,Sneha,EMI
+1095,2024-08-13,Bangalore,Whitefield,Duke 200,Naked,1,200000,200000,Returning,Priya,EMI
+1096,2024-07-24,Hyderabad,Banjara Hills,Duke 200,Naked,3,200000,600000,Returning,Ravi,Cash
+1097,2024-06-04,Mumbai,Andheri,RC 390,Sports,1,350000,350000,New,Kumar,Card
+1098,2024-11-12,Chennai,T Nagar,Duke 200,Naked,5,200000,1000000,Returning,Sneha,Card
+1099,2024-06-05,Bangalore,Whitefield,RC 200,Sports,4,210000,840000,Returning,Sneha,EMI
+1100,2024-05-02,Chennai,T Nagar,Duke 250,Naked,2,240000,480000,Returning,Ravi,Cash
+1101,2024-10-31,Bangalore,Indiranagar,Duke 250,Naked,1,240000,240000,Returning,Priya,Card
+1102,2024-08-20,Mumbai,Powai,Duke 200,Naked,2,200000,400000,Returning,Arjun,Card
+1103,2024-10-05,Chennai,T Nagar,Duke 390,Naked,5,300000,1500000,New,Priya,Cash
+1104,2024-06-06,Bangalore,Indiranagar,Duke 390,Naked,2,300000,600000,New,Ravi,Cash
+1105,2024-09-13,Hyderabad,Gachibowli,Duke 200,Naked,4,200000,800000,Returning,Priya,EMI
+1106,2024-06-14,Mumbai,Powai,Duke 200,Naked,5,200000,1000000,New,Priya,Card
+1107,2024-01-21,Hyderabad,Banjara Hills,Duke 200,Naked,2,200000,400000,New,Arjun,Card
+1108,2024-08-11,Bangalore,Whitefield,RC 390,Sports,4,350000,1400000,Returning,Kumar,Card
+1109,2024-12-09,Mumbai,Andheri,RC 200,Sports,3,210000,630000,Returning,Arjun,EMI
+1110,2024-07-24,Chennai,T Nagar,Duke 390,Naked,4,300000,1200000,Returning,Arjun,Card
+1111,2024-07-25,Chennai,Velachery,Duke 200,Naked,3,200000,600000,Returning,Arjun,Cash
+1112,2024-11-14,Chennai,Velachery,RC 200,Sports,1,210000,210000,New,Sneha,EMI
+1113,2024-05-27,Mumbai,Powai,Duke 200,Naked,2,200000,400000,Returning,Sneha,Cash
+1114,2024-10-09,Mumbai,Powai,Duke 200,Naked,1,200000,200000,New,Kumar,EMI
+1115,2024-11-27,Chennai,Velachery,Duke 200,Naked,2,200000,400000,New,Priya,Cash
+1116,2024-08-29,Bangalore,Whitefield,Duke 390,Naked,5,300000,1500000,Returning,Priya,EMI
+1117,2024-09-17,Bangalore,Whitefield,RC 390,Sports,2,350000,700000,Returning,Kumar,Card
+1118,2024-01-02,Bangalore,Indiranagar,Duke 390,Naked,4,300000,1200000,Returning,Sneha,EMI
+1119,2024-10-02,Hyderabad,Gachibowli,RC 390,Sports,5,350000,1750000,Returning,Kumar,EMI
+1120,2024-04-06,Mumbai,Powai,Duke 390,Naked,5,300000,1500000,Returning,Priya,EMI
+1121,2024-08-30,Bangalore,Whitefield,Duke 250,Naked,4,240000,960000,New,Arjun,Card
+1122,2024-10-29,Mumbai,Powai,Duke 250,Naked,4,240000,960000,New,Kumar,Card
+1123,2024-03-14,Hyderabad,Banjara Hills,RC 200,Sports,1,210000,210000,Returning,Ravi,Card
+1124,2024-12-20,Mumbai,Andheri,Duke 200,Naked,4,200000,800000,Returning,Arjun,Card
+1125,2024-09-06,Mumbai,Andheri,Duke 390,Naked,5,300000,1500000,Returning,Arjun,Card
+1126,2024-02-20,Chennai,T Nagar,Duke 250,Naked,3,240000,720000,New,Ravi,EMI
+1127,2024-01-29,Chennai,Velachery,Duke 250,Naked,3,240000,720000,New,Ravi,EMI
+1128,2024-07-29,Hyderabad,Gachibowli,Duke 390,Naked,4,300000,1200000,New,Kumar,Card
+1129,2024-05-03,Bangalore,Indiranagar,Duke 250,Naked,1,240000,240000,Returning,Sneha,Card
+1130,2024-12-07,Mumbai,Andheri,Duke 250,Naked,4,240000,960000,Returning,Priya,EMI
+1131,2024-06-25,Chennai,Velachery,Duke 390,Naked,5,300000,1500000,New,Ravi,EMI
+1132,2024-09-04,Hyderabad,Gachibowli,Duke 390,Naked,4,300000,1200000,Returning,Kumar,EMI
+1133,2024-12-24,Chennai,T Nagar,RC 200,Sports,5,210000,1050000,Returning,Sneha,EMI
+1134,2024-01-26,Hyderabad,Banjara Hills,RC 200,Sports,3,210000,630000,New,Sneha,Card
+1135,2024-04-07,Mumbai,Powai,Duke 250,Naked,5,240000,1200000,Returning,Kumar,Card
+1136,2024-10-23,Hyderabad,Banjara Hills,Duke 200,Naked,1,200000,200000,Returning,Priya,Cash
+1137,2024-04-12,Hyderabad,Banjara Hills,Duke 200,Naked,3,200000,600000,Returning,Priya,Cash
+1138,2024-09-03,Bangalore,Whitefield,RC 390,Sports,5,350000,1750000,Returning,Kumar,EMI
+1139,2024-12-12,Hyderabad,Gachibowli,Duke 200,Naked,4,200000,800000,New,Kumar,Cash
+1140,2024-03-04,Mumbai,Powai,Duke 200,Naked,4,200000,800000,New,Arjun,Card
+1141,2024-12-11,Mumbai,Powai,Duke 390,Naked,5,300000,1500000,Returning,Arjun,Cash
+1142,2024-11-27,Bangalore,Whitefield,Duke 200,Naked,5,200000,1000000,Returning,Sneha,Cash
+1143,2024-01-20,Chennai,Velachery,Duke 390,Naked,4,300000,1200000,New,Kumar,Cash
+1144,2024-07-17,Hyderabad,Gachibowli,Duke 200,Naked,1,200000,200000,New,Sneha,Cash
+1145,2024-02-20,Mumbai,Powai,RC 390,Sports,4,350000,1400000,New,Priya,Card
+1146,2024-08-15,Mumbai,Powai,Duke 390,Naked,1,300000,300000,Returning,Kumar,EMI
+1147,2024-05-21,Bangalore,Whitefield,Duke 200,Naked,3,200000,600000,Returning,Ravi,EMI
+1148,2024-01-26,Bangalore,Indiranagar,RC 200,Sports,1,210000,210000,New,Sneha,Cash
+1149,2024-04-16,Hyderabad,Banjara Hills,Duke 250,Naked,5,240000,1200000,New,Ravi,Card
+1150,2024-03-07,Bangalore,Indiranagar,Duke 390,Naked,2,300000,600000,New,Arjun,Cash
+1151,2024-05-01,Hyderabad,Banjara Hills,Duke 200,Naked,1,200000,200000,New,Ravi,EMI
+1152,2024-08-03,Hyderabad,Banjara Hills,Duke 250,Naked,3,240000,720000,New,Kumar,Card
+1153,2024-02-25,Chennai,T Nagar,RC 200,Sports,4,210000,840000,Returning,Sneha,Card
+1154,2024-01-16,Mumbai,Andheri,RC 390,Sports,1,350000,350000,Returning,Priya,Card
+1155,2024-08-15,Chennai,Velachery,RC 200,Sports,4,210000,840000,New,Priya,Card
+1156,2024-05-20,Chennai,T Nagar,Duke 390,Naked,5,300000,1500000,New,Ravi,Cash
+1157,2024-11-05,Hyderabad,Gachibowli,RC 390,Sports,5,350000,1750000,Returning,Priya,Card
+1158,2024-04-26,Mumbai,Andheri,Duke 200,Naked,5,200000,1000000,New,Priya,EMI
+1159,2024-08-06,Mumbai,Powai,RC 200,Sports,4,210000,840000,Returning,Ravi,EMI
+1160,2024-02-13,Hyderabad,Gachibowli,Duke 390,Naked,2,300000,600000,Returning,Ravi,Cash
+1161,2024-10-27,Chennai,Velachery,Duke 200,Naked,3,200000,600000,New,Sneha,Cash
+1162,2024-11-03,Hyderabad,Banjara Hills,RC 200,Sports,3,210000,630000,Returning,Ravi,EMI
+1163,2024-09-03,Hyderabad,Gachibowli,Duke 200,Naked,5,200000,1000000,New,Kumar,Card
+1164,2024-10-20,Bangalore,Indiranagar,Duke 390,Naked,5,300000,1500000,Returning,Ravi,EMI
+1165,2024-12-21,Bangalore,Whitefield,RC 390,Sports,5,350000,1750000,New,Sneha,Card
+1166,2024-01-04,Hyderabad,Banjara Hills,Duke 250,Naked,3,240000,720000,Returning,Arjun,EMI
+1167,2024-11-20,Bangalore,Indiranagar,RC 390,Sports,4,350000,1400000,New,Kumar,Card
+1168,2024-06-23,Chennai,T Nagar,RC 390,Sports,2,350000,700000,Returning,Priya,EMI
+1169,2024-03-21,Bangalore,Whitefield,Duke 390,Naked,3,300000,900000,New,Ravi,Cash
+1170,2024-08-14,Chennai,T Nagar,Duke 390,Naked,4,300000,1200000,Returning,Priya,Card
+1171,2024-02-26,Mumbai,Powai,Duke 250,Naked,5,240000,1200000,New,Arjun,EMI
+1172,2024-11-02,Hyderabad,Gachibowli,RC 390,Sports,3,350000,1050000,New,Kumar,EMI
+1173,2024-05-28,Chennai,T Nagar,Duke 250,Naked,3,240000,720000,New,Kumar,EMI
+1174,2024-07-13,Hyderabad,Banjara Hills,Duke 200,Naked,4,200000,800000,Returning,Kumar,Cash
+1175,2024-08-23,Bangalore,Whitefield,Duke 200,Naked,4,200000,800000,New,Priya,Cash
+1176,2024-02-28,Chennai,Velachery,RC 390,Sports,4,350000,1400000,Returning,Priya,EMI
+1177,2024-08-11,Mumbai,Andheri,Duke 390,Naked,2,300000,600000,Returning,Arjun,Cash
+1178,2024-07-21,Chennai,T Nagar,RC 200,Sports,5,210000,1050000,Returning,Sneha,Cash
+1179,2024-11-20,Hyderabad,Gachibowli,Duke 250,Naked,3,240000,720000,New,Ravi,Card
+1180,2024-03-15,Chennai,T Nagar,Duke 390,Naked,3,300000,900000,New,Kumar,Cash
+1181,2024-11-17,Hyderabad,Banjara Hills,Duke 250,Naked,5,240000,1200000,New,Ravi,Cash
+1182,2024-11-21,Mumbai,Powai,RC 390,Sports,5,350000,1750000,Returning,Sneha,Card
+1183,2024-11-19,Hyderabad,Gachibowli,Duke 250,Naked,4,240000,960000,New,Priya,EMI
+1184,2024-06-07,Hyderabad,Gachibowli,RC 390,Sports,1,350000,350000,Returning,Sneha,Cash
+1185,2024-11-26,Mumbai,Powai,Duke 200,Naked,1,200000,200000,Returning,Arjun,Cash
+1186,2024-11-29,Chennai,Velachery,RC 200,Sports,5,210000,1050000,New,Priya,Card
+1187,2024-02-22,Bangalore,Whitefield,RC 390,Sports,4,350000,1400000,New,Ravi,EMI
+1188,2024-08-12,Hyderabad,Banjara Hills,RC 390,Sports,2,350000,700000,New,Kumar,Card
+1189,2024-06-22,Mumbai,Andheri,Duke 390,Naked,3,300000,900000,Returning,Priya,EMI
+1190,2024-07-16,Chennai,Velachery,Duke 200,Naked,3,200000,600000,New,Sneha,Card
+1191,2024-12-05,Hyderabad,Gachibowli,RC 390,Sports,2,350000,700000,Returning,Ravi,Card
+1192,2024-02-13,Bangalore,Whitefield,Duke 390,Naked,4,300000,1200000,New,Sneha,Card
+1193,2024-07-04,Hyderabad,Gachibowli,Duke 390,Naked,2,300000,600000,New,Priya,Card
+1194,2024-04-08,Chennai,Velachery,Duke 390,Naked,2,300000,600000,New,Arjun,EMI
+1195,2024-10-03,Bangalore,Indiranagar,Duke 250,Naked,1,240000,240000,Returning,Ravi,Card
+1196,2024-04-02,Chennai,Velachery,RC 390,Sports,2,350000,700000,Returning,Kumar,Cash
+1197,2024-11-08,Bangalore,Whitefield,Duke 200,Naked,4,200000,800000,Returning,Kumar,EMI
+1198,2024-04-09,Hyderabad,Gachibowli,Duke 250,Naked,5,240000,1200000,New,Arjun,EMI
+1199,2024-08-02,Hyderabad,Gachibowli,RC 200,Sports,3,210000,630000,Returning,Sneha,Card
+1200,2024-09-03,Bangalore,Indiranagar,RC 390,Sports,2,350000,700000,Returning,Ravi,Card
+1201,2024-05-19,Hyderabad,Banjara Hills,RC 390,Sports,1,350000,350000,Returning,Ravi,Cash
+1202,2024-01-14,Mumbai,Andheri,RC 200,Sports,1,210000,210000,New,Priya,EMI
+1203,2024-02-11,Mumbai,Andheri,RC 200,Sports,5,210000,1050000,Returning,Kumar,EMI
+1204,2024-03-11,Hyderabad,Banjara Hills,Duke 200,Naked,3,200000,600000,New,Arjun,Cash
+1205,2024-01-03,Chennai,Velachery,RC 200,Sports,2,210000,420000,Returning,Priya,Card
+1206,2024-11-07,Chennai,T Nagar,Duke 390,Naked,2,300000,600000,New,Sneha,Card
+1207,2024-05-02,Mumbai,Andheri,Duke 390,Naked,2,300000,600000,Returning,Ravi,Cash
+1208,2024-01-09,Mumbai,Powai,Duke 200,Naked,1,200000,200000,Returning,Sneha,Card
+1209,2024-05-03,Bangalore,Indiranagar,Duke 390,Naked,4,300000,1200000,New,Sneha,EMI
+1210,2024-10-05,Mumbai,Andheri,Duke 200,Naked,5,200000,1000000,Returning,Ravi,Card
+1211,2024-01-09,Chennai,Velachery,RC 200,Sports,1,210000,210000,Returning,Arjun,EMI
+1212,2024-06-19,Hyderabad,Banjara Hills,Duke 390,Naked,2,300000,600000,New,Sneha,Card
+1213,2024-08-25,Bangalore,Indiranagar,Duke 390,Naked,5,300000,1500000,Returning,Kumar,Card
+1214,2024-04-13,Mumbai,Andheri,Duke 250,Naked,1,240000,240000,Returning,Ravi,EMI
+1215,2024-10-05,Chennai,T Nagar,Duke 200,Naked,3,200000,600000,Returning,Sneha,EMI
+1216,2024-12-01,Mumbai,Powai,Duke 200,Naked,2,200000,400000,Returning,Arjun,Cash
+1217,2024-08-13,Hyderabad,Gachibowli,Duke 200,Naked,3,200000,600000,Returning,Priya,Card
+1218,2024-05-16,Mumbai,Powai,Duke 250,Naked,4,240000,960000,Returning,Arjun,Card
+1219,2024-06-13,Chennai,Velachery,Duke 200,Naked,4,200000,800000,New,Sneha,EMI
+1220,2024-08-06,Chennai,T Nagar,Duke 390,Naked,3,300000,900000,Returning,Priya,Card
+1221,2024-08-10,Bangalore,Whitefield,Duke 390,Naked,4,300000,1200000,New,Arjun,Card
+1222,2024-12-13,Hyderabad,Banjara Hills,Duke 200,Naked,4,200000,800000,Returning,Sneha,Card
+1223,2024-02-04,Bangalore,Indiranagar,Duke 250,Naked,5,240000,1200000,Returning,Ravi,Cash
+1224,2024-12-13,Bangalore,Whitefield,Duke 390,Naked,4,300000,1200000,New,Sneha,Cash
+1225,2024-09-28,Mumbai,Powai,Duke 390,Naked,4,300000,1200000,New,Sneha,Cash
+1226,2024-04-05,Hyderabad,Gachibowli,Duke 390,Naked,3,300000,900000,New,Ravi,Cash
+1227,2024-08-16,Mumbai,Powai,RC 390,Sports,1,350000,350000,Returning,Arjun,Card
+1228,2024-08-19,Bangalore,Whitefield,RC 200,Sports,2,210000,420000,New,Kumar,Cash
+1229,2024-10-04,Bangalore,Whitefield,Duke 200,Naked,3,200000,600000,Returning,Ravi,Card
+1230,2024-03-03,Hyderabad,Gachibowli,Duke 250,Naked,2,240000,480000,Returning,Sneha,Cash
+1231,2024-10-20,Bangalore,Indiranagar,Duke 250,Naked,4,240000,960000,New,Arjun,Card
+1232,2024-07-22,Hyderabad,Gachibowli,RC 390,Sports,2,350000,700000,New,Ravi,EMI
+1233,2024-11-24,Mumbai,Powai,RC 200,Sports,5,210000,1050000,New,Kumar,EMI
+1234,2024-11-23,Chennai,Velachery,RC 200,Sports,5,210000,1050000,Returning,Kumar,Card
+1235,2024-03-19,Bangalore,Indiranagar,RC 200,Sports,5,210000,1050000,New,Ravi,Card
+1236,2024-05-25,Hyderabad,Banjara Hills,Duke 250,Naked,3,240000,720000,New,Arjun,Card
+1237,2024-06-04,Chennai,Velachery,Duke 250,Naked,5,240000,1200000,Returning,Kumar,Card
+1238,2024-11-15,Chennai,T Nagar,RC 390,Sports,5,350000,1750000,New,Kumar,Card
+1239,2024-11-29,Hyderabad,Banjara Hills,Duke 200,Naked,1,200000,200000,New,Sneha,EMI
+1240,2024-11-24,Bangalore,Whitefield,RC 390,Sports,1,350000,350000,Returning,Sneha,EMI
+1241,2024-12-18,Hyderabad,Gachibowli,Duke 250,Naked,4,240000,960000,Returning,Priya,Cash
+1242,2024-06-23,Chennai,T Nagar,RC 200,Sports,4,210000,840000,Returning,Priya,Cash
+1243,2024-09-20,Bangalore,Whitefield,Duke 390,Naked,3,300000,900000,Returning,Kumar,EMI
+1244,2024-05-06,Chennai,Velachery,Duke 250,Naked,4,240000,960000,New,Arjun,EMI
+1245,2024-05-07,Bangalore,Indiranagar,Duke 200,Naked,3,200000,600000,Returning,Sneha,EMI
+1246,2024-09-20,Bangalore,Whitefield,RC 390,Sports,3,350000,1050000,New,Kumar,EMI
+1247,2024-09-15,Mumbai,Powai,Duke 390,Naked,4,300000,1200000,New,Ravi,EMI
+1248,2024-05-24,Mumbai,Andheri,Duke 250,Naked,5,240000,1200000,Returning,Ravi,Cash
+1249,2024-03-09,Mumbai,Powai,Duke 390,Naked,5,300000,1500000,New,Ravi,EMI
+1250,2024-10-18,Hyderabad,Gachibowli,RC 200,Sports,3,210000,630000,New,Priya,Cash
+1251,2024-08-18,Bangalore,Whitefield,RC 390,Sports,3,350000,1050000,New,Priya,Card
+1252,2024-10-12,Hyderabad,Banjara Hills,Duke 250,Naked,1,240000,240000,Returning,Arjun,EMI
+1253,2024-01-24,Hyderabad,Banjara Hills,Duke 250,Naked,5,240000,1200000,Returning,Sneha,Cash
+1254,2024-09-20,Chennai,T Nagar,Duke 390,Naked,4,300000,1200000,Returning,Kumar,Card
+1255,2024-06-02,Bangalore,Whitefield,RC 390,Sports,3,350000,1050000,New,Priya,Card
+1256,2024-06-18,Hyderabad,Gachibowli,RC 390,Sports,3,350000,1050000,Returning,Ravi,EMI
+1257,2024-05-15,Chennai,Velachery,RC 390,Sports,3,350000,1050000,New,Sneha,EMI
+1258,2024-11-13,Bangalore,Indiranagar,RC 390,Sports,4,350000,1400000,New,Sneha,Card
+1259,2024-08-13,Mumbai,Andheri,Duke 250,Naked,1,240000,240000,New,Kumar,Cash
+1260,2024-11-09,Hyderabad,Gachibowli,Duke 250,Naked,4,240000,960000,New,Priya,Card
+1261,2024-12-05,Mumbai,Andheri,Duke 250,Naked,5,240000,1200000,New,Sneha,EMI
+1262,2024-10-06,Mumbai,Powai,Duke 390,Naked,2,300000,600000,Returning,Sneha,EMI
+1263,2024-10-12,Hyderabad,Gachibowli,RC 390,Sports,4,350000,1400000,New,Kumar,EMI
+1264,2024-09-02,Hyderabad,Banjara Hills,Duke 390,Naked,3,300000,900000,New,Priya,EMI
+1265,2024-03-15,Hyderabad,Gachibowli,Duke 390,Naked,1,300000,300000,Returning,Priya,EMI
+1266,2024-05-11,Hyderabad,Banjara Hills,Duke 390,Naked,1,300000,300000,Returning,Priya,Card
+1267,2024-05-19,Mumbai,Andheri,Duke 250,Naked,5,240000,1200000,Returning,Sneha,Card
+1268,2024-12-08,Bangalore,Indiranagar,RC 390,Sports,5,350000,1750000,New,Kumar,Cash
+1269,2024-08-29,Bangalore,Indiranagar,Duke 200,Naked,1,200000,200000,Returning,Arjun,Card
+1270,2024-08-31,Chennai,T Nagar,Duke 200,Naked,5,200000,1000000,New,Priya,Card
+1271,2024-11-29,Mumbai,Andheri,Duke 390,Naked,3,300000,900000,Returning,Ravi,Cash
+1272,2024-09-10,Bangalore,Indiranagar,Duke 250,Naked,4,240000,960000,New,Ravi,EMI
+1273,2024-02-24,Bangalore,Whitefield,Duke 200,Naked,1,200000,200000,Returning,Sneha,Card
+1274,2024-08-27,Hyderabad,Gachibowli,RC 200,Sports,5,210000,1050000,Returning,Kumar,Card
+1275,2024-05-11,Hyderabad,Banjara Hills,Duke 200,Naked,3,200000,600000,New,Priya,Card
+1276,2024-11-23,Bangalore,Indiranagar,Duke 390,Naked,3,300000,900000,New,Kumar,Card
+1277,2024-02-18,Mumbai,Powai,RC 390,Sports,3,350000,1050000,New,Priya,Card
+1278,2024-07-15,Bangalore,Indiranagar,RC 200,Sports,3,210000,630000,New,Ravi,EMI
+1279,2024-10-20,Bangalore,Whitefield,Duke 390,Naked,3,300000,900000,Returning,Sneha,Card
+1280,2024-06-06,Chennai,Velachery,Duke 390,Naked,2,300000,600000,New,Ravi,EMI
+1281,2024-11-10,Bangalore,Whitefield,RC 390,Sports,3,350000,1050000,New,Arjun,EMI
+1282,2024-11-06,Bangalore,Indiranagar,Duke 250,Naked,4,240000,960000,New,Priya,Card
+1283,2024-11-01,Hyderabad,Gachibowli,RC 390,Sports,4,350000,1400000,New,Kumar,Card
+1284,2024-02-01,Chennai,Velachery,RC 390,Sports,3,350000,1050000,New,Sneha,Cash
+1285,2024-04-15,Bangalore,Indiranagar,Duke 250,Naked,3,240000,720000,Returning,Ravi,Card
+1286,2024-09-19,Mumbai,Andheri,RC 390,Sports,4,350000,1400000,New,Priya,Cash
+1287,2024-01-12,Mumbai,Powai,RC 390,Sports,1,350000,350000,Returning,Arjun,Card
+1288,2024-06-25,Mumbai,Powai,Duke 200,Naked,2,200000,400000,New,Ravi,EMI
+1289,2024-04-02,Chennai,T Nagar,Duke 200,Naked,4,200000,800000,New,Arjun,EMI
+1290,2024-02-11,Bangalore,Whitefield,Duke 390,Naked,4,300000,1200000,Returning,Priya,EMI
+1291,2024-04-24,Bangalore,Whitefield,Duke 200,Naked,2,200000,400000,Returning,Sneha,Cash
+1292,2024-04-27,Chennai,T Nagar,Duke 390,Naked,4,300000,1200000,Returning,Sneha,EMI
+1293,2024-02-27,Bangalore,Whitefield,Duke 390,Naked,2,300000,600000,Returning,Kumar,Card
+1294,2024-02-21,Chennai,Velachery,RC 390,Sports,1,350000,350000,New,Kumar,Cash
+1295,2024-08-12,Chennai,Velachery,RC 390,Sports,1,350000,350000,New,Ravi,EMI
+1296,2024-10-21,Bangalore,Indiranagar,Duke 200,Naked,2,200000,400000,Returning,Kumar,Card
+1297,2024-07-30,Hyderabad,Gachibowli,Duke 250,Naked,3,240000,720000,New,Sneha,Cash
+1298,2024-09-10,Hyderabad,Gachibowli,Duke 200,Naked,5,200000,1000000,New,Priya,Card
+1299,2024-03-17,Chennai,Velachery,RC 200,Sports,5,210000,1050000,Returning,Priya,EMI
+1300,2024-06-02,Hyderabad,Gachibowli,Duke 250,Naked,5,240000,1200000,Returning,Kumar,Cash
+1301,2024-09-28,Bangalore,Whitefield,Duke 200,Naked,5,200000,1000000,Returning,Priya,Card
+1302,2024-02-10,Bangalore,Whitefield,Duke 250,Naked,3,240000,720000,New,Arjun,Card
+1303,2024-07-12,Mumbai,Powai,Duke 200,Naked,5,200000,1000000,New,Ravi,EMI
+1304,2024-06-19,Chennai,T Nagar,Duke 250,Naked,5,240000,1200000,New,Priya,Cash
+1305,2024-12-22,Hyderabad,Banjara Hills,Duke 250,Naked,2,240000,480000,New,Priya,Cash
+1306,2024-08-26,Bangalore,Whitefield,Duke 250,Naked,5,240000,1200000,Returning,Arjun,EMI
+1307,2024-08-28,Hyderabad,Gachibowli,Duke 390,Naked,3,300000,900000,Returning,Priya,Cash
+1308,2024-04-23,Hyderabad,Banjara Hills,Duke 390,Naked,3,300000,900000,Returning,Ravi,Card
+1309,2024-04-10,Bangalore,Indiranagar,Duke 390,Naked,5,300000,1500000,Returning,Arjun,Cash
+1310,2024-12-01,Hyderabad,Banjara Hills,RC 200,Sports,5,210000,1050000,New,Priya,Card
+1311,2024-06-29,Hyderabad,Gachibowli,RC 200,Sports,4,210000,840000,Returning,Kumar,Card
+1312,2024-01-31,Bangalore,Indiranagar,RC 390,Sports,4,350000,1400000,New,Sneha,Card
+1313,2024-04-28,Chennai,T Nagar,Duke 200,Naked,1,200000,200000,Returning,Kumar,Card
+1314,2024-11-12,Chennai,T Nagar,Duke 200,Naked,2,200000,400000,Returning,Arjun,Cash
+1315,2024-09-28,Mumbai,Powai,Duke 200,Naked,1,200000,200000,Returning,Ravi,Cash
+1316,2024-02-19,Hyderabad,Gachibowli,Duke 200,Naked,5,200000,1000000,Returning,Kumar,Cash
+1317,2024-07-22,Bangalore,Indiranagar,Duke 250,Naked,5,240000,1200000,Returning,Arjun,EMI
+1318,2024-12-16,Chennai,Velachery,RC 200,Sports,4,210000,840000,New,Kumar,EMI
+1319,2024-08-31,Chennai,T Nagar,Duke 200,Naked,4,200000,800000,Returning,Priya,Card
+1320,2024-06-18,Chennai,T Nagar,Duke 250,Naked,1,240000,240000,Returning,Priya,Card
+1321,2024-02-08,Chennai,T Nagar,Duke 250,Naked,2,240000,480000,Returning,Arjun,Cash
+1322,2024-03-14,Hyderabad,Banjara Hills,Duke 250,Naked,3,240000,720000,New,Kumar,Card
+1323,2024-12-12,Mumbai,Andheri,Duke 390,Naked,2,300000,600000,New,Sneha,EMI
+1324,2024-08-11,Hyderabad,Gachibowli,Duke 250,Naked,1,240000,240000,Returning,Ravi,Cash
+1325,2024-11-20,Bangalore,Indiranagar,Duke 390,Naked,5,300000,1500000,Returning,Arjun,Cash
+1326,2024-08-09,Hyderabad,Gachibowli,RC 200,Sports,2,210000,420000,Returning,Sneha,EMI
+1327,2024-02-07,Bangalore,Whitefield,Duke 200,Naked,5,200000,1000000,Returning,Kumar,Card
+1328,2024-07-03,Chennai,Velachery,Duke 250,Naked,4,240000,960000,New,Priya,EMI
+1329,2024-02-22,Chennai,T Nagar,Duke 200,Naked,3,200000,600000,Returning,Arjun,EMI
+1330,2024-09-19,Bangalore,Indiranagar,Duke 250,Naked,4,240000,960000,Returning,Sneha,Card
+1331,2024-11-01,Mumbai,Andheri,Duke 200,Naked,1,200000,200000,Returning,Sneha,Cash
+1332,2024-10-13,Hyderabad,Gachibowli,Duke 200,Naked,3,200000,600000,Returning,Priya,Cash
+1333,2024-05-17,Bangalore,Indiranagar,RC 200,Sports,2,210000,420000,New,Arjun,EMI
+1334,2024-06-02,Mumbai,Andheri,Duke 200,Naked,2,200000,400000,Returning,Arjun,EMI
+1335,2024-11-11,Mumbai,Andheri,Duke 390,Naked,3,300000,900000,New,Priya,Card
+1336,2024-06-19,Bangalore,Whitefield,Duke 200,Naked,2,200000,400000,Returning,Ravi,EMI
+1337,2024-06-02,Mumbai,Powai,RC 200,Sports,3,210000,630000,Returning,Sneha,Cash
+1338,2024-05-29,Hyderabad,Banjara Hills,RC 200,Sports,3,210000,630000,New,Priya,EMI
+1339,2024-02-28,Mumbai,Andheri,Duke 390,Naked,4,300000,1200000,Returning,Priya,EMI
+1340,2024-05-29,Bangalore,Indiranagar,RC 390,Sports,1,350000,350000,Returning,Kumar,EMI
+1341,2024-12-03,Chennai,Velachery,RC 200,Sports,2,210000,420000,Returning,Kumar,EMI
+1342,2024-10-25,Bangalore,Whitefield,RC 200,Sports,1,210000,210000,Returning,Sneha,EMI
+1343,2024-11-22,Mumbai,Powai,RC 390,Sports,1,350000,350000,Returning,Sneha,Card
+1344,2024-10-15,Chennai,T Nagar,Duke 250,Naked,3,240000,720000,New,Sneha,Cash
+1345,2024-04-23,Mumbai,Powai,RC 200,Sports,1,210000,210000,New,Ravi,EMI
+1346,2024-09-13,Bangalore,Whitefield,Duke 390,Naked,4,300000,1200000,Returning,Sneha,Card
+1347,2024-02-13,Bangalore,Whitefield,Duke 200,Naked,4,200000,800000,New,Arjun,EMI
+1348,2024-09-23,Chennai,T Nagar,Duke 390,Naked,3,300000,900000,Returning,Priya,Cash
+1349,2024-02-04,Mumbai,Powai,RC 200,Sports,1,210000,210000,Returning,Priya,EMI
+1350,2024-03-25,Hyderabad,Banjara Hills,Duke 200,Naked,1,200000,200000,Returning,Ravi,Card
+1351,2024-08-24,Bangalore,Indiranagar,RC 390,Sports,2,350000,700000,Returning,Sneha,EMI
+1352,2024-11-10,Bangalore,Whitefield,Duke 250,Naked,2,240000,480000,Returning,Priya,Cash
+1353,2024-04-19,Bangalore,Whitefield,RC 390,Sports,4,350000,1400000,Returning,Ravi,Card
+1354,2024-07-06,Bangalore,Whitefield,Duke 200,Naked,5,200000,1000000,New,Sneha,Cash
+1355,2024-11-23,Hyderabad,Banjara Hills,RC 200,Sports,1,210000,210000,Returning,Priya,Card
+1356,2024-08-22,Hyderabad,Gachibowli,RC 390,Sports,4,350000,1400000,New,Arjun,EMI
+1357,2024-03-01,Bangalore,Whitefield,RC 390,Sports,5,350000,1750000,New,Kumar,EMI
+1358,2024-07-17,Bangalore,Whitefield,Duke 200,Naked,2,200000,400000,Returning,Kumar,Card
+1359,2024-11-21,Mumbai,Andheri,RC 390,Sports,4,350000,1400000,Returning,Kumar,EMI
+1360,2024-08-18,Bangalore,Indiranagar,RC 200,Sports,3,210000,630000,New,Kumar,EMI
+1361,2024-10-14,Chennai,Velachery,Duke 200,Naked,4,200000,800000,New,Kumar,EMI
+1362,2024-02-12,Mumbai,Powai,RC 200,Sports,4,210000,840000,Returning,Priya,Cash
+1363,2024-05-27,Chennai,T Nagar,Duke 390,Naked,1,300000,300000,Returning,Kumar,Card
+1364,2024-05-17,Bangalore,Whitefield,RC 390,Sports,4,350000,1400000,New,Sneha,Cash
+1365,2024-11-30,Hyderabad,Banjara Hills,RC 200,Sports,5,210000,1050000,New,Priya,Cash
+1366,2024-08-12,Bangalore,Whitefield,Duke 200,Naked,4,200000,800000,Returning,Arjun,Cash
+1367,2024-08-07,Chennai,T Nagar,Duke 250,Naked,5,240000,1200000,Returning,Sneha,Card
+1368,2024-09-29,Bangalore,Indiranagar,Duke 250,Naked,2,240000,480000,New,Sneha,EMI
+1369,2024-09-20,Hyderabad,Banjara Hills,Duke 390,Naked,3,300000,900000,Returning,Sneha,EMI
+1370,2024-03-08,Chennai,T Nagar,RC 200,Sports,1,210000,210000,Returning,Kumar,Card
+1371,2024-10-22,Bangalore,Indiranagar,Duke 390,Naked,2,300000,600000,Returning,Priya,Cash
+1372,2024-09-20,Hyderabad,Gachibowli,RC 200,Sports,4,210000,840000,New,Ravi,EMI
+1373,2024-02-17,Hyderabad,Gachibowli,RC 200,Sports,4,210000,840000,Returning,Sneha,Cash
+1374,2024-04-18,Mumbai,Powai,Duke 200,Naked,5,200000,1000000,Returning,Kumar,EMI
+1375,2024-03-07,Mumbai,Powai,Duke 390,Naked,3,300000,900000,Returning,Sneha,Card
+1376,2024-03-04,Mumbai,Powai,Duke 200,Naked,1,200000,200000,New,Priya,Cash
+1377,2024-03-08,Bangalore,Whitefield,RC 200,Sports,1,210000,210000,Returning,Kumar,Card
+1378,2024-07-09,Hyderabad,Banjara Hills,Duke 390,Naked,1,300000,300000,Returning,Arjun,Cash
+1379,2024-02-16,Bangalore,Indiranagar,RC 200,Sports,3,210000,630000,New,Priya,Card
+1380,2024-04-25,Chennai,T Nagar,Duke 250,Naked,4,240000,960000,New,Kumar,Card
+1381,2024-03-08,Mumbai,Andheri,Duke 200,Naked,3,200000,600000,New,Priya,Card
+1382,2024-06-09,Mumbai,Andheri,Duke 250,Naked,4,240000,960000,New,Ravi,Cash
+1383,2024-09-28,Hyderabad,Gachibowli,Duke 250,Naked,4,240000,960000,New,Kumar,Cash
+1384,2024-11-11,Chennai,T Nagar,RC 200,Sports,3,210000,630000,New,Kumar,EMI
+1385,2024-07-15,Mumbai,Andheri,Duke 200,Naked,1,200000,200000,New,Ravi,Card
+1386,2024-02-13,Hyderabad,Gachibowli,Duke 390,Naked,2,300000,600000,New,Arjun,Card
+1387,2024-09-17,Bangalore,Whitefield,Duke 200,Naked,3,200000,600000,New,Sneha,Card
+1388,2024-02-27,Bangalore,Whitefield,Duke 390,Naked,1,300000,300000,New,Priya,EMI
+1389,2024-03-08,Bangalore,Whitefield,RC 390,Sports,1,350000,350000,New,Arjun,EMI
+1390,2024-01-09,Mumbai,Powai,Duke 390,Naked,5,300000,1500000,New,Priya,Cash
+1391,2024-09-16,Chennai,T Nagar,Duke 390,Naked,2,300000,600000,New,Ravi,EMI
+1392,2024-11-11,Hyderabad,Gachibowli,RC 200,Sports,4,210000,840000,New,Sneha,Card
+1393,2024-03-20,Bangalore,Whitefield,Duke 200,Naked,3,200000,600000,New,Sneha,Cash
+1394,2024-05-02,Hyderabad,Gachibowli,RC 390,Sports,1,350000,350000,Returning,Priya,Card
+1395,2024-11-07,Chennai,T Nagar,Duke 200,Naked,4,200000,800000,New,Priya,Card
+1396,2024-01-06,Chennai,Velachery,Duke 250,Naked,1,240000,240000,New,Kumar,Card
+1397,2024-03-05,Bangalore,Whitefield,Duke 390,Naked,5,300000,1500000,Returning,Kumar,EMI
+1398,2024-02-02,Hyderabad,Banjara Hills,Duke 200,Naked,3,200000,600000,Returning,Arjun,Card
+1399,2024-10-17,Hyderabad,Banjara Hills,RC 200,Sports,4,210000,840000,Returning,Ravi,EMI
+1400,2024-02-29,Bangalore,Whitefield,Duke 250,Naked,3,240000,720000,New,Sneha,Card
+1401,2024-07-05,Bangalore,Indiranagar,Duke 200,Naked,1,200000,200000,New,Ravi,EMI
+1402,2024-05-07,Mumbai,Andheri,Duke 250,Naked,1,240000,240000,Returning,Kumar,EMI
+1403,2024-12-10,Mumbai,Powai,Duke 390,Naked,1,300000,300000,Returning,Ravi,Card
+1404,2024-08-26,Chennai,T Nagar,Duke 250,Naked,5,240000,1200000,New,Priya,Cash
+1405,2024-04-12,Hyderabad,Gachibowli,Duke 390,Naked,1,300000,300000,Returning,Ravi,EMI
+1406,2024-09-09,Hyderabad,Gachibowli,RC 390,Sports,2,350000,700000,Returning,Arjun,Card
+1407,2024-10-04,Bangalore,Indiranagar,Duke 250,Naked,1,240000,240000,Returning,Ravi,Cash
+1408,2024-04-15,Hyderabad,Banjara Hills,Duke 390,Naked,1,300000,300000,Returning,Arjun,Cash
+1409,2024-01-23,Bangalore,Whitefield,RC 200,Sports,1,210000,210000,New,Arjun,Cash
+1410,2024-09-15,Bangalore,Whitefield,Duke 390,Naked,4,300000,1200000,New,Sneha,Cash
+1411,2024-03-07,Bangalore,Whitefield,Duke 200,Naked,5,200000,1000000,New,Priya,Card
+1412,2024-08-19,Bangalore,Whitefield,Duke 390,Naked,3,300000,900000,Returning,Arjun,EMI
+1413,2024-03-20,Hyderabad,Banjara Hills,Duke 200,Naked,2,200000,400000,New,Sneha,Cash
+1414,2024-10-01,Chennai,T Nagar,RC 200,Sports,4,210000,840000,Returning,Priya,Cash
+1415,2024-02-16,Hyderabad,Banjara Hills,RC 200,Sports,3,210000,630000,Returning,Arjun,Cash
+1416,2024-02-16,Bangalore,Whitefield,RC 390,Sports,1,350000,350000,New,Arjun,Cash
+1417,2024-03-30,Bangalore,Whitefield,RC 200,Sports,5,210000,1050000,New,Arjun,EMI
+1418,2024-02-22,Chennai,Velachery,RC 200,Sports,5,210000,1050000,New,Ravi,EMI
+1419,2024-07-24,Bangalore,Indiranagar,Duke 200,Naked,1,200000,200000,New,Kumar,Cash
+1420,2024-02-03,Hyderabad,Banjara Hills,RC 390,Sports,5,350000,1750000,Returning,Ravi,Cash
+1421,2024-08-24,Bangalore,Whitefield,Duke 250,Naked,1,240000,240000,Returning,Ravi,Cash
+1422,2024-07-14,Chennai,T Nagar,RC 390,Sports,4,350000,1400000,Returning,Priya,Cash
+1423,2024-08-16,Mumbai,Andheri,Duke 390,Naked,2,300000,600000,New,Arjun,EMI
+1424,2024-07-29,Bangalore,Indiranagar,RC 390,Sports,5,350000,1750000,New,Arjun,EMI
+1425,2024-04-12,Mumbai,Andheri,Duke 200,Naked,3,200000,600000,Returning,Kumar,EMI
+1426,2024-06-25,Bangalore,Indiranagar,RC 200,Sports,3,210000,630000,Returning,Sneha,EMI
+1427,2024-04-22,Hyderabad,Gachibowli,Duke 390,Naked,2,300000,600000,New,Arjun,Card
+1428,2024-03-22,Chennai,Velachery,Duke 200,Naked,4,200000,800000,Returning,Sneha,Cash
+1429,2024-07-17,Chennai,T Nagar,Duke 250,Naked,3,240000,720000,New,Kumar,Card
+1430,2024-01-15,Hyderabad,Banjara Hills,Duke 250,Naked,2,240000,480000,Returning,Arjun,Card
+1431,2024-03-30,Hyderabad,Banjara Hills,RC 390,Sports,2,350000,700000,Returning,Sneha,EMI
+1432,2024-01-11,Mumbai,Andheri,Duke 200,Naked,1,200000,200000,New,Sneha,Cash
+1433,2024-03-31,Mumbai,Andheri,Duke 390,Naked,5,300000,1500000,New,Kumar,EMI
+1434,2024-07-05,Hyderabad,Banjara Hills,Duke 200,Naked,2,200000,400000,New,Ravi,Card
+1435,2024-06-14,Chennai,Velachery,RC 200,Sports,5,210000,1050000,New,Arjun,EMI
+1436,2024-10-14,Bangalore,Indiranagar,RC 200,Sports,4,210000,840000,Returning,Kumar,Card
+1437,2024-12-18,Hyderabad,Banjara Hills,RC 390,Sports,2,350000,700000,Returning,Arjun,Card
+1438,2024-04-03,Hyderabad,Banjara Hills,Duke 250,Naked,1,240000,240000,Returning,Sneha,Cash
+1439,2024-02-09,Hyderabad,Banjara Hills,RC 390,Sports,1,350000,350000,Returning,Kumar,EMI
+1440,2024-01-06,Bangalore,Whitefield,Duke 390,Naked,2,300000,600000,New,Arjun,EMI
+1441,2024-01-01,Hyderabad,Banjara Hills,Duke 250,Naked,1,240000,240000,Returning,Arjun,Cash
+1442,2024-07-12,Chennai,Velachery,RC 200,Sports,4,210000,840000,New,Priya,EMI
+1443,2024-02-07,Hyderabad,Gachibowli,Duke 200,Naked,4,200000,800000,New,Kumar,EMI
+1444,2024-06-24,Chennai,Velachery,Duke 200,Naked,3,200000,600000,Returning,Ravi,Cash
+1445,2024-11-10,Bangalore,Whitefield,Duke 250,Naked,1,240000,240000,New,Arjun,Card
+1446,2024-02-21,Mumbai,Andheri,RC 200,Sports,2,210000,420000,Returning,Kumar,Cash
+1447,2024-05-01,Hyderabad,Banjara Hills,Duke 250,Naked,4,240000,960000,Returning,Arjun,EMI
+1448,2024-07-03,Chennai,T Nagar,RC 200,Sports,5,210000,1050000,Returning,Kumar,Cash
+1449,2024-01-14,Chennai,Velachery,Duke 200,Naked,3,200000,600000,Returning,Kumar,Cash
+1450,2024-07-22,Bangalore,Indiranagar,Duke 390,Naked,1,300000,300000,Returning,Ravi,EMI
+1451,2024-07-14,Mumbai,Powai,Duke 390,Naked,1,300000,300000,Returning,Kumar,EMI
+1452,2024-05-14,Hyderabad,Banjara Hills,RC 200,Sports,1,210000,210000,Returning,Priya,EMI
+1453,2024-12-08,Bangalore,Whitefield,RC 390,Sports,1,350000,350000,New,Ravi,Cash
+1454,2024-08-02,Hyderabad,Gachibowli,RC 390,Sports,2,350000,700000,New,Priya,Card
+1455,2024-01-18,Mumbai,Andheri,RC 200,Sports,3,210000,630000,New,Priya,Card
+1456,2024-03-05,Bangalore,Indiranagar,RC 200,Sports,2,210000,420000,New,Kumar,Cash
+1457,2024-05-12,Chennai,Velachery,Duke 200,Naked,4,200000,800000,New,Kumar,Card
+1458,2024-05-21,Hyderabad,Banjara Hills,Duke 200,Naked,4,200000,800000,Returning,Sneha,EMI
+1459,2024-03-17,Mumbai,Andheri,RC 390,Sports,5,350000,1750000,Returning,Ravi,EMI
+1460,2024-06-25,Bangalore,Indiranagar,Duke 200,Naked,5,200000,1000000,New,Arjun,Card
+1461,2024-05-21,Mumbai,Powai,RC 200,Sports,4,210000,840000,Returning,Ravi,Cash
+1462,2024-06-18,Mumbai,Andheri,RC 390,Sports,5,350000,1750000,Returning,Ravi,EMI
+1463,2024-06-04,Bangalore,Indiranagar,RC 200,Sports,3,210000,630000,Returning,Ravi,EMI
+1464,2024-08-14,Hyderabad,Gachibowli,RC 200,Sports,1,210000,210000,New,Kumar,EMI
+1465,2024-04-18,Hyderabad,Gachibowli,RC 200,Sports,5,210000,1050000,New,Kumar,EMI
+1466,2024-02-03,Mumbai,Powai,RC 390,Sports,3,350000,1050000,New,Sneha,Cash
+1467,2024-04-12,Hyderabad,Gachibowli,Duke 250,Naked,5,240000,1200000,New,Kumar,Cash
+1468,2024-04-11,Chennai,T Nagar,Duke 200,Naked,4,200000,800000,New,Arjun,Card
+1469,2024-01-16,Hyderabad,Gachibowli,RC 200,Sports,5,210000,1050000,Returning,Ravi,Card
+1470,2024-10-27,Bangalore,Whitefield,RC 200,Sports,5,210000,1050000,Returning,Kumar,EMI
+1471,2024-07-16,Hyderabad,Gachibowli,Duke 250,Naked,3,240000,720000,New,Arjun,Cash
+1472,2024-04-15,Chennai,T Nagar,RC 390,Sports,2,350000,700000,New,Kumar,Card
+1473,2024-11-27,Hyderabad,Gachibowli,RC 390,Sports,1,350000,350000,New,Priya,Cash
+1474,2024-07-11,Bangalore,Indiranagar,Duke 250,Naked,3,240000,720000,Returning,Arjun,EMI
+1475,2024-09-23,Hyderabad,Gachibowli,Duke 390,Naked,2,300000,600000,Returning,Arjun,Card
+1476,2024-10-31,Mumbai,Andheri,Duke 200,Naked,5,200000,1000000,Returning,Sneha,Card
+1477,2024-11-23,Hyderabad,Gachibowli,Duke 200,Naked,4,200000,800000,New,Arjun,EMI
+1478,2024-05-03,Hyderabad,Gachibowli,Duke 390,Naked,3,300000,900000,New,Kumar,Card
+1479,2024-05-12,Chennai,Velachery,Duke 390,Naked,2,300000,600000,New,Priya,EMI
+1480,2024-04-23,Mumbai,Powai,RC 200,Sports,1,210000,210000,New,Arjun,Card
+1481,2024-05-30,Mumbai,Powai,RC 390,Sports,3,350000,1050000,New,Sneha,Cash
+1482,2024-02-15,Chennai,Velachery,Duke 250,Naked,3,240000,720000,New,Arjun,Card
+1483,2024-05-13,Bangalore,Whitefield,Duke 250,Naked,3,240000,720000,Returning,Arjun,EMI
+1484,2024-11-13,Hyderabad,Gachibowli,Duke 200,Naked,4,200000,800000,New,Sneha,Card
+1485,2024-06-01,Chennai,Velachery,Duke 250,Naked,5,240000,1200000,New,Priya,Card
+1486,2024-10-18,Mumbai,Andheri,Duke 250,Naked,2,240000,480000,New,Arjun,EMI
+1487,2024-11-19,Mumbai,Andheri,Duke 390,Naked,2,300000,600000,New,Priya,EMI
+1488,2024-03-27,Bangalore,Whitefield,Duke 200,Naked,1,200000,200000,Returning,Arjun,Cash
+1489,2024-08-07,Bangalore,Whitefield,Duke 200,Naked,2,200000,400000,Returning,Priya,EMI
+1490,2024-06-13,Mumbai,Powai,Duke 200,Naked,1,200000,200000,New,Arjun,Cash
+1491,2024-03-07,Bangalore,Indiranagar,Duke 200,Naked,2,200000,400000,New,Arjun,EMI
+1492,2024-01-24,Chennai,Velachery,RC 390,Sports,5,350000,1750000,Returning,Kumar,Cash
+1493,2024-03-09,Hyderabad,Gachibowli,RC 200,Sports,5,210000,1050000,Returning,Priya,Card
+1494,2024-04-26,Hyderabad,Gachibowli,Duke 390,Naked,2,300000,600000,New,Priya,Cash
+1495,2024-12-30,Bangalore,Indiranagar,Duke 250,Naked,1,240000,240000,New,Ravi,EMI
+1496,2024-12-04,Chennai,Velachery,Duke 390,Naked,5,300000,1500000,New,Sneha,Cash
+1497,2024-03-04,Chennai,T Nagar,Duke 200,Naked,1,200000,200000,Returning,Priya,EMI
+1498,2024-12-04,Hyderabad,Gachibowli,Duke 250,Naked,2,240000,480000,New,Arjun,EMI
+1499,2024-09-18,Chennai,Velachery,RC 390,Sports,5,350000,1750000,New,Priya,Cash
+1500,2024-04-12,Chennai,Velachery,Duke 200,Naked,1,200000,200000,Returning,Kumar,Card
+1501,2024-10-07,Hyderabad,Banjara Hills,Duke 390,Naked,4,300000,1200000,Returning,Kumar,Cash
+1502,2024-12-09,Mumbai,Andheri,RC 200,Sports,3,210000,630000,New,Ravi,Cash
+1503,2024-02-08,Chennai,T Nagar,RC 390,Sports,4,350000,1400000,New,Ravi,Card
+1504,2024-01-26,Chennai,Velachery,Duke 250,Naked,4,240000,960000,Returning,Arjun,EMI
+1505,2024-02-29,Chennai,T Nagar,Duke 200,Naked,3,200000,600000,Returning,Arjun,EMI
+1506,2024-08-12,Chennai,T Nagar,Duke 200,Naked,2,200000,400000,New,Arjun,EMI
+1507,2024-07-23,Hyderabad,Banjara Hills,Duke 390,Naked,3,300000,900000,New,Ravi,EMI
+1508,2024-03-08,Mumbai,Powai,RC 200,Sports,4,210000,840000,Returning,Kumar,Cash
+1509,2024-08-12,Chennai,T Nagar,Duke 200,Naked,4,200000,800000,Returning,Sneha,Card
+1510,2024-09-06,Bangalore,Whitefield,Duke 390,Naked,5,300000,1500000,New,Kumar,EMI
+1511,2024-06-09,Chennai,Velachery,RC 200,Sports,1,210000,210000,New,Arjun,Card
+1512,2024-05-07,Chennai,T Nagar,Duke 390,Naked,5,300000,1500000,New,Priya,Card
+1513,2024-03-21,Mumbai,Powai,RC 200,Sports,2,210000,420000,New,Ravi,Card
+1514,2024-06-18,Mumbai,Powai,Duke 250,Naked,1,240000,240000,Returning,Arjun,Cash
+1515,2024-02-10,Hyderabad,Banjara Hills,RC 390,Sports,2,350000,700000,Returning,Priya,Cash
+1516,2024-06-10,Mumbai,Powai,RC 390,Sports,4,350000,1400000,New,Priya,EMI
+1517,2024-10-12,Chennai,Velachery,Duke 200,Naked,1,200000,200000,Returning,Priya,Cash
+1518,2024-04-15,Chennai,T Nagar,RC 390,Sports,5,350000,1750000,Returning,Sneha,Card
+1519,2024-10-13,Mumbai,Powai,Duke 390,Naked,1,300000,300000,New,Priya,EMI
+1520,2024-06-23,Mumbai,Powai,RC 200,Sports,1,210000,210000,New,Kumar,Cash
+1521,2024-03-25,Hyderabad,Gachibowli,RC 390,Sports,5,350000,1750000,Returning,Ravi,Cash
+1522,2024-04-06,Mumbai,Andheri,RC 200,Sports,1,210000,210000,Returning,Sneha,Cash
+1523,2024-07-31,Chennai,Velachery,Duke 250,Naked,4,240000,960000,New,Arjun,Cash
+1524,2024-09-28,Chennai,T Nagar,RC 200,Sports,4,210000,840000,New,Priya,Cash
+1525,2024-03-06,Chennai,Velachery,RC 390,Sports,4,350000,1400000,New,Sneha,Cash
+1526,2024-08-02,Chennai,Velachery,RC 390,Sports,5,350000,1750000,Returning,Sneha,EMI
+1527,2024-03-11,Bangalore,Whitefield,RC 200,Sports,3,210000,630000,Returning,Priya,Cash
+1528,2024-11-15,Mumbai,Powai,RC 390,Sports,3,350000,1050000,New,Kumar,Cash
+1529,2024-10-14,Hyderabad,Gachibowli,Duke 250,Naked,2,240000,480000,Returning,Ravi,EMI
+1530,2024-02-24,Mumbai,Powai,RC 390,Sports,3,350000,1050000,Returning,Ravi,Card
+1531,2024-03-23,Chennai,Velachery,Duke 250,Naked,1,240000,240000,New,Kumar,EMI
+1532,2024-01-17,Hyderabad,Gachibowli,Duke 250,Naked,1,240000,240000,Returning,Kumar,Card
+1533,2024-05-01,Hyderabad,Gachibowli,Duke 200,Naked,5,200000,1000000,New,Sneha,EMI
+1534,2024-01-28,Hyderabad,Banjara Hills,RC 200,Sports,4,210000,840000,Returning,Arjun,Card
+1535,2024-12-26,Chennai,Velachery,Duke 250,Naked,5,240000,1200000,Returning,Kumar,Card
+1536,2024-02-08,Hyderabad,Banjara Hills,Duke 250,Naked,3,240000,720000,Returning,Kumar,Card
+1537,2024-05-22,Bangalore,Indiranagar,RC 390,Sports,1,350000,350000,Returning,Ravi,EMI
+1538,2024-08-26,Hyderabad,Banjara Hills,Duke 250,Naked,5,240000,1200000,Returning,Ravi,EMI
+1539,2024-06-03,Bangalore,Indiranagar,Duke 250,Naked,3,240000,720000,New,Sneha,Card
+1540,2024-02-04,Mumbai,Powai,Duke 200,Naked,3,200000,600000,New,Kumar,Card
+1541,2024-04-23,Bangalore,Whitefield,RC 390,Sports,5,350000,1750000,Returning,Ravi,EMI
+1542,2024-09-28,Bangalore,Whitefield,Duke 390,Naked,3,300000,900000,Returning,Kumar,Card
+1543,2024-11-10,Mumbai,Andheri,Duke 200,Naked,3,200000,600000,Returning,Kumar,Card
+1544,2024-10-03,Bangalore,Indiranagar,Duke 390,Naked,4,300000,1200000,New,Priya,EMI
+1545,2024-05-31,Hyderabad,Banjara Hills,RC 390,Sports,3,350000,1050000,Returning,Priya,Cash
+1546,2024-09-30,Bangalore,Whitefield,RC 390,Sports,1,350000,350000,New,Kumar,Card
+1547,2024-10-02,Chennai,T Nagar,Duke 250,Naked,2,240000,480000,Returning,Ravi,Cash
+1548,2024-02-14,Mumbai,Andheri,Duke 250,Naked,1,240000,240000,Returning,Arjun,Cash
+1549,2024-05-12,Chennai,T Nagar,Duke 250,Naked,3,240000,720000,New,Sneha,Cash
+1550,2024-07-18,Mumbai,Powai,RC 200,Sports,4,210000,840000,Returning,Arjun,Cash
+1551,2024-09-14,Chennai,T Nagar,RC 390,Sports,1,350000,350000,New,Ravi,EMI
+1552,2024-07-14,Chennai,Velachery,Duke 390,Naked,5,300000,1500000,New,Arjun,EMI
+1553,2024-07-19,Mumbai,Andheri,RC 200,Sports,2,210000,420000,New,Kumar,Card
+1554,2024-03-13,Hyderabad,Banjara Hills,Duke 390,Naked,3,300000,900000,New,Sneha,Card
+1555,2024-02-13,Chennai,T Nagar,Duke 200,Naked,5,200000,1000000,Returning,Sneha,Card
+1556,2024-03-23,Hyderabad,Banjara Hills,Duke 390,Naked,2,300000,600000,Returning,Sneha,Cash
+1557,2024-12-09,Bangalore,Indiranagar,RC 390,Sports,3,350000,1050000,New,Ravi,Cash
+1558,2024-02-20,Chennai,Velachery,RC 390,Sports,1,350000,350000,Returning,Ravi,EMI
+1559,2024-05-25,Bangalore,Whitefield,Duke 390,Naked,3,300000,900000,New,Kumar,Cash
+1560,2024-12-03,Chennai,T Nagar,Duke 390,Naked,4,300000,1200000,Returning,Arjun,Card
+1561,2024-03-27,Hyderabad,Banjara Hills,RC 390,Sports,5,350000,1750000,Returning,Arjun,EMI
+1562,2024-03-09,Chennai,Velachery,Duke 250,Naked,2,240000,480000,Returning,Arjun,EMI
+1563,2024-10-09,Hyderabad,Gachibowli,RC 200,Sports,4,210000,840000,Returning,Arjun,EMI
+1564,2024-04-10,Chennai,T Nagar,RC 390,Sports,1,350000,350000,Returning,Kumar,Card
+1565,2024-07-26,Hyderabad,Banjara Hills,Duke 200,Naked,1,200000,200000,New,Sneha,Card
+1566,2024-07-19,Bangalore,Indiranagar,RC 390,Sports,3,350000,1050000,Returning,Kumar,EMI
+1567,2024-09-14,Bangalore,Whitefield,Duke 250,Naked,4,240000,960000,New,Priya,EMI
+1568,2024-04-01,Chennai,T Nagar,RC 390,Sports,2,350000,700000,New,Priya,Cash
+1569,2024-02-02,Bangalore,Whitefield,Duke 390,Naked,1,300000,300000,New,Priya,Cash
+1570,2024-07-17,Hyderabad,Gachibowli,Duke 250,Naked,1,240000,240000,New,Sneha,EMI
+1571,2024-09-23,Mumbai,Powai,Duke 200,Naked,1,200000,200000,Returning,Ravi,Card
+1572,2024-07-12,Hyderabad,Gachibowli,RC 390,Sports,5,350000,1750000,New,Priya,Card
+1573,2024-07-26,Hyderabad,Banjara Hills,RC 390,Sports,3,350000,1050000,Returning,Kumar,Card
+1574,2024-08-13,Hyderabad,Gachibowli,RC 200,Sports,4,210000,840000,New,Sneha,Cash
+1575,2024-04-05,Bangalore,Indiranagar,Duke 200,Naked,5,200000,1000000,Returning,Kumar,Cash
+1576,2024-02-28,Bangalore,Whitefield,RC 390,Sports,1,350000,350000,New,Priya,EMI
+1577,2024-05-04,Mumbai,Powai,RC 200,Sports,2,210000,420000,New,Priya,Cash
+1578,2024-09-19,Chennai,T Nagar,RC 390,Sports,5,350000,1750000,New,Kumar,Card
+1579,2024-07-26,Chennai,T Nagar,Duke 200,Naked,2,200000,400000,Returning,Kumar,Card
+1580,2024-09-03,Chennai,Velachery,Duke 200,Naked,2,200000,400000,Returning,Sneha,EMI
+1581,2024-11-15,Bangalore,Indiranagar,RC 200,Sports,5,210000,1050000,New,Sneha,Cash
+1582,2024-07-16,Hyderabad,Banjara Hills,Duke 390,Naked,4,300000,1200000,New,Kumar,EMI
+1583,2024-02-19,Bangalore,Indiranagar,Duke 200,Naked,2,200000,400000,Returning,Kumar,Card
+1584,2024-03-01,Bangalore,Whitefield,RC 390,Sports,5,350000,1750000,New,Sneha,Card
+1585,2024-08-03,Chennai,Velachery,Duke 250,Naked,5,240000,1200000,New,Priya,Card
+1586,2024-06-28,Hyderabad,Banjara Hills,RC 390,Sports,4,350000,1400000,New,Priya,EMI
+1587,2024-05-25,Chennai,Velachery,Duke 250,Naked,3,240000,720000,Returning,Kumar,Cash
+1588,2024-03-01,Mumbai,Powai,Duke 250,Naked,1,240000,240000,New,Sneha,Card
+1589,2024-03-20,Chennai,Velachery,Duke 250,Naked,3,240000,720000,Returning,Arjun,Cash
+1590,2024-11-09,Mumbai,Powai,Duke 390,Naked,5,300000,1500000,Returning,Sneha,EMI
+1591,2024-10-13,Hyderabad,Gachibowli,Duke 250,Naked,4,240000,960000,Returning,Kumar,EMI
+1592,2024-03-11,Mumbai,Powai,Duke 390,Naked,5,300000,1500000,Returning,Priya,Card
+1593,2024-07-24,Chennai,T Nagar,RC 200,Sports,2,210000,420000,New,Kumar,Card
+1594,2024-08-29,Hyderabad,Banjara Hills,Duke 250,Naked,4,240000,960000,New,Ravi,Cash
+1595,2024-11-07,Mumbai,Andheri,Duke 200,Naked,3,200000,600000,New,Arjun,Cash
+1596,2024-03-30,Chennai,Velachery,RC 200,Sports,5,210000,1050000,Returning,Sneha,Cash
+1597,2024-11-02,Mumbai,Powai,Duke 200,Naked,2,200000,400000,Returning,Kumar,Cash
+1598,2024-02-14,Bangalore,Indiranagar,Duke 200,Naked,3,200000,600000,New,Ravi,Cash
+1599,2024-09-22,Hyderabad,Gachibowli,Duke 390,Naked,4,300000,1200000,Returning,Sneha,Cash
+1600,2024-06-27,Chennai,T Nagar,Duke 200,Naked,5,200000,1000000,Returning,Sneha,Card
+1601,2024-10-21,Hyderabad,Gachibowli,Duke 250,Naked,5,240000,1200000,New,Priya,EMI
+1602,2024-09-14,Chennai,Velachery,Duke 250,Naked,4,240000,960000,New,Sneha,Cash
+1603,2024-05-08,Hyderabad,Gachibowli,Duke 200,Naked,5,200000,1000000,Returning,Sneha,Card
+1604,2024-12-14,Mumbai,Powai,RC 390,Sports,4,350000,1400000,New,Arjun,EMI
+1605,2024-11-20,Mumbai,Andheri,RC 200,Sports,1,210000,210000,Returning,Ravi,EMI
+1606,2024-01-05,Bangalore,Indiranagar,Duke 390,Naked,4,300000,1200000,Returning,Sneha,Card
+1607,2024-10-10,Hyderabad,Banjara Hills,Duke 390,Naked,1,300000,300000,Returning,Arjun,Cash
+1608,2024-04-03,Bangalore,Whitefield,Duke 390,Naked,3,300000,900000,New,Sneha,EMI
+1609,2024-04-27,Bangalore,Whitefield,Duke 250,Naked,2,240000,480000,New,Arjun,Cash
+1610,2024-02-10,Bangalore,Indiranagar,RC 390,Sports,3,350000,1050000,New,Ravi,Cash
+1611,2024-06-10,Mumbai,Andheri,RC 390,Sports,1,350000,350000,Returning,Arjun,Card
+1612,2024-10-22,Mumbai,Powai,RC 200,Sports,2,210000,420000,Returning,Priya,Cash
+1613,2024-09-14,Bangalore,Indiranagar,RC 390,Sports,4,350000,1400000,Returning,Sneha,Cash
+1614,2024-06-10,Hyderabad,Gachibowli,Duke 250,Naked,4,240000,960000,New,Sneha,EMI
+1615,2024-11-09,Chennai,T Nagar,Duke 250,Naked,4,240000,960000,New,Arjun,EMI
+1616,2024-11-09,Hyderabad,Banjara Hills,RC 390,Sports,3,350000,1050000,New,Arjun,EMI
+1617,2024-12-24,Hyderabad,Gachibowli,Duke 250,Naked,4,240000,960000,Returning,Kumar,EMI
+1618,2024-03-08,Hyderabad,Gachibowli,RC 200,Sports,3,210000,630000,Returning,Kumar,Card
+1619,2024-03-15,Bangalore,Indiranagar,Duke 390,Naked,2,300000,600000,Returning,Priya,Cash
+1620,2024-11-18,Bangalore,Whitefield,Duke 200,Naked,2,200000,400000,Returning,Priya,Cash
+1621,2024-12-19,Hyderabad,Gachibowli,Duke 390,Naked,3,300000,900000,New,Priya,Cash
+1622,2024-06-20,Bangalore,Indiranagar,Duke 250,Naked,3,240000,720000,Returning,Ravi,EMI
+1623,2024-07-29,Hyderabad,Gachibowli,Duke 390,Naked,5,300000,1500000,Returning,Arjun,Cash
+1624,2024-06-15,Chennai,Velachery,RC 390,Sports,2,350000,700000,New,Arjun,EMI
+1625,2024-03-15,Mumbai,Powai,Duke 200,Naked,4,200000,800000,Returning,Priya,Card
+1626,2024-03-23,Bangalore,Whitefield,RC 200,Sports,5,210000,1050000,Returning,Ravi,Cash
+1627,2024-11-26,Hyderabad,Banjara Hills,Duke 390,Naked,3,300000,900000,Returning,Arjun,Card
+1628,2024-04-04,Mumbai,Powai,RC 200,Sports,3,210000,630000,Returning,Priya,Cash
+1629,2024-07-22,Chennai,T Nagar,Duke 250,Naked,3,240000,720000,New,Kumar,Cash
+1630,2024-09-25,Chennai,T Nagar,Duke 200,Naked,4,200000,800000,New,Ravi,EMI
+1631,2024-07-18,Chennai,T Nagar,Duke 390,Naked,5,300000,1500000,New,Ravi,Card
+1632,2024-09-26,Hyderabad,Banjara Hills,Duke 250,Naked,3,240000,720000,Returning,Kumar,Cash
+1633,2024-10-03,Bangalore,Indiranagar,Duke 200,Naked,3,200000,600000,Returning,Priya,EMI
+1634,2024-08-21,Hyderabad,Gachibowli,Duke 250,Naked,5,240000,1200000,New,Sneha,Card
+1635,2024-06-06,Mumbai,Powai,Duke 390,Naked,4,300000,1200000,New,Ravi,EMI
+1636,2024-09-24,Hyderabad,Gachibowli,Duke 390,Naked,2,300000,600000,Returning,Ravi,Cash
+1637,2024-06-02,Bangalore,Whitefield,Duke 390,Naked,4,300000,1200000,New,Priya,EMI
+1638,2024-07-10,Chennai,Velachery,Duke 390,Naked,5,300000,1500000,New,Ravi,Card
+1639,2024-11-26,Bangalore,Whitefield,RC 390,Sports,4,350000,1400000,Returning,Kumar,Cash
+1640,2024-05-02,Mumbai,Powai,Duke 250,Naked,3,240000,720000,New,Priya,Card
+1641,2024-04-03,Hyderabad,Gachibowli,RC 390,Sports,3,350000,1050000,Returning,Kumar,Cash
+1642,2024-11-14,Bangalore,Whitefield,Duke 200,Naked,4,200000,800000,Returning,Arjun,Card
+1643,2024-01-12,Mumbai,Andheri,Duke 390,Naked,1,300000,300000,New,Ravi,Card
+1644,2024-01-05,Bangalore,Indiranagar,Duke 390,Naked,3,300000,900000,New,Priya,Card
+1645,2024-08-03,Bangalore,Indiranagar,Duke 250,Naked,1,240000,240000,Returning,Kumar,EMI
+1646,2024-03-15,Hyderabad,Gachibowli,Duke 390,Naked,4,300000,1200000,New,Arjun,Cash
+1647,2024-05-08,Chennai,Velachery,RC 200,Sports,1,210000,210000,Returning,Kumar,Cash
+1648,2024-01-18,Mumbai,Andheri,Duke 200,Naked,2,200000,400000,Returning,Priya,Cash
+1649,2024-12-14,Bangalore,Whitefield,Duke 200,Naked,5,200000,1000000,New,Priya,EMI
+1650,2024-11-22,Hyderabad,Gachibowli,Duke 250,Naked,1,240000,240000,New,Arjun,EMI
+1651,2024-11-20,Hyderabad,Banjara Hills,Duke 390,Naked,1,300000,300000,New,Ravi,Cash
+1652,2024-07-21,Mumbai,Powai,Duke 200,Naked,2,200000,400000,Returning,Sneha,Cash
+1653,2024-07-09,Bangalore,Indiranagar,Duke 200,Naked,5,200000,1000000,Returning,Sneha,Cash
+1654,2024-11-16,Chennai,T Nagar,Duke 250,Naked,4,240000,960000,New,Sneha,EMI
+1655,2024-04-29,Chennai,T Nagar,Duke 390,Naked,2,300000,600000,New,Kumar,EMI
+1656,2024-03-09,Hyderabad,Gachibowli,RC 200,Sports,2,210000,420000,New,Priya,EMI
+1657,2024-09-07,Hyderabad,Banjara Hills,RC 200,Sports,4,210000,840000,Returning,Sneha,Card
+1658,2024-11-02,Bangalore,Indiranagar,RC 390,Sports,3,350000,1050000,Returning,Priya,EMI
+1659,2024-10-04,Bangalore,Indiranagar,RC 390,Sports,2,350000,700000,Returning,Arjun,EMI
+1660,2024-11-13,Hyderabad,Gachibowli,Duke 200,Naked,5,200000,1000000,Returning,Kumar,Cash
+1661,2024-12-15,Hyderabad,Banjara Hills,Duke 390,Naked,1,300000,300000,Returning,Kumar,Card
+1662,2024-06-13,Mumbai,Andheri,RC 390,Sports,3,350000,1050000,Returning,Priya,Card
+1663,2024-01-17,Chennai,T Nagar,RC 390,Sports,1,350000,350000,New,Kumar,Cash
+1664,2024-11-24,Bangalore,Indiranagar,RC 200,Sports,2,210000,420000,New,Ravi,Card
+1665,2024-04-23,Mumbai,Powai,RC 390,Sports,5,350000,1750000,Returning,Ravi,EMI
+1666,2024-02-01,Chennai,T Nagar,Duke 250,Naked,4,240000,960000,New,Priya,Card
+1667,2024-02-06,Hyderabad,Gachibowli,Duke 390,Naked,1,300000,300000,Returning,Sneha,Cash
+1668,2024-04-28,Hyderabad,Banjara Hills,Duke 250,Naked,5,240000,1200000,New,Ravi,Card
+1669,2024-04-01,Mumbai,Andheri,Duke 250,Naked,5,240000,1200000,New,Sneha,Card
+1670,2024-03-26,Mumbai,Andheri,RC 390,Sports,3,350000,1050000,Returning,Priya,Cash
+1671,2024-08-14,Bangalore,Whitefield,RC 390,Sports,3,350000,1050000,New,Sneha,Card
+1672,2024-08-08,Hyderabad,Gachibowli,RC 390,Sports,3,350000,1050000,Returning,Priya,Card
+1673,2024-05-10,Hyderabad,Banjara Hills,RC 390,Sports,5,350000,1750000,New,Priya,Card
+1674,2024-11-01,Hyderabad,Gachibowli,RC 200,Sports,4,210000,840000,New,Ravi,EMI
+1675,2024-06-10,Chennai,T Nagar,Duke 390,Naked,1,300000,300000,Returning,Kumar,Cash
+1676,2024-08-23,Chennai,Velachery,RC 390,Sports,5,350000,1750000,New,Ravi,Cash
+1677,2024-04-29,Hyderabad,Banjara Hills,Duke 250,Naked,3,240000,720000,Returning,Sneha,Cash
+1678,2024-02-09,Hyderabad,Gachibowli,Duke 200,Naked,5,200000,1000000,Returning,Sneha,Cash
+1679,2024-06-02,Hyderabad,Gachibowli,Duke 250,Naked,4,240000,960000,New,Sneha,Card
+1680,2024-08-01,Chennai,Velachery,Duke 200,Naked,1,200000,200000,Returning,Arjun,EMI
+1681,2024-09-25,Chennai,T Nagar,RC 390,Sports,1,350000,350000,Returning,Ravi,EMI
+1682,2024-12-23,Chennai,Velachery,RC 390,Sports,5,350000,1750000,New,Arjun,Card
+1683,2024-09-15,Bangalore,Indiranagar,Duke 200,Naked,4,200000,800000,Returning,Sneha,Card
+1684,2024-06-21,Chennai,T Nagar,RC 200,Sports,3,210000,630000,Returning,Kumar,Cash
+1685,2024-07-23,Chennai,Velachery,RC 390,Sports,1,350000,350000,Returning,Arjun,Cash
+1686,2024-11-29,Mumbai,Andheri,Duke 250,Naked,4,240000,960000,New,Priya,EMI
+1687,2024-12-16,Bangalore,Indiranagar,Duke 250,Naked,1,240000,240000,Returning,Priya,EMI
+1688,2024-06-13,Chennai,T Nagar,RC 200,Sports,4,210000,840000,Returning,Arjun,Cash
+1689,2024-11-15,Hyderabad,Banjara Hills,Duke 390,Naked,2,300000,600000,Returning,Sneha,EMI
+1690,2024-02-13,Bangalore,Whitefield,Duke 200,Naked,2,200000,400000,New,Arjun,Cash
+1691,2024-06-24,Chennai,T Nagar,Duke 250,Naked,5,240000,1200000,New,Arjun,Cash
+1692,2024-10-02,Chennai,Velachery,RC 200,Sports,4,210000,840000,New,Arjun,Cash
+1693,2024-11-14,Bangalore,Indiranagar,RC 390,Sports,5,350000,1750000,Returning,Sneha,EMI
+1694,2024-01-31,Bangalore,Indiranagar,RC 200,Sports,5,210000,1050000,New,Arjun,Cash
+1695,2024-01-05,Hyderabad,Banjara Hills,RC 390,Sports,3,350000,1050000,New,Priya,Card
+1696,2024-11-28,Chennai,Velachery,Duke 390,Naked,3,300000,900000,New,Ravi,EMI
+1697,2024-11-01,Mumbai,Andheri,RC 200,Sports,5,210000,1050000,New,Arjun,EMI
+1698,2024-01-12,Chennai,T Nagar,Duke 250,Naked,5,240000,1200000,Returning,Sneha,Card
+1699,2024-03-21,Chennai,T Nagar,RC 390,Sports,3,350000,1050000,Returning,Priya,EMI
+1700,2024-05-21,Chennai,Velachery,Duke 390,Naked,3,300000,900000,Returning,Kumar,Card
+1701,2024-06-23,Chennai,Velachery,RC 200,Sports,1,210000,210000,Returning,Kumar,Cash
+1702,2024-10-20,Mumbai,Andheri,Duke 200,Naked,4,200000,800000,New,Priya,Cash
+1703,2024-03-08,Bangalore,Whitefield,Duke 390,Naked,5,300000,1500000,Returning,Priya,Card
+1704,2024-12-18,Bangalore,Indiranagar,RC 390,Sports,5,350000,1750000,New,Kumar,EMI
+1705,2024-10-12,Bangalore,Whitefield,Duke 250,Naked,5,240000,1200000,New,Arjun,Cash
+1706,2024-07-29,Chennai,T Nagar,Duke 390,Naked,2,300000,600000,New,Arjun,EMI
+1707,2024-04-04,Hyderabad,Gachibowli,Duke 390,Naked,2,300000,600000,New,Ravi,Cash
+1708,2024-04-28,Chennai,Velachery,RC 390,Sports,5,350000,1750000,New,Sneha,Cash
+1709,2024-08-28,Chennai,Velachery,Duke 200,Naked,4,200000,800000,New,Sneha,Card
+1710,2024-04-08,Hyderabad,Banjara Hills,RC 200,Sports,4,210000,840000,Returning,Kumar,Cash
+1711,2024-12-09,Bangalore,Indiranagar,RC 200,Sports,1,210000,210000,Returning,Priya,Cash
+1712,2024-12-18,Bangalore,Indiranagar,Duke 200,Naked,2,200000,400000,Returning,Sneha,EMI
+1713,2024-07-13,Hyderabad,Gachibowli,Duke 250,Naked,4,240000,960000,Returning,Ravi,Card
+1714,2024-08-19,Hyderabad,Gachibowli,RC 390,Sports,5,350000,1750000,New,Sneha,Cash
+1715,2024-07-17,Mumbai,Andheri,Duke 250,Naked,5,240000,1200000,Returning,Ravi,Card
+1716,2024-08-24,Chennai,T Nagar,Duke 390,Naked,4,300000,1200000,Returning,Arjun,EMI
+1717,2024-08-25,Bangalore,Whitefield,Duke 390,Naked,5,300000,1500000,New,Sneha,Cash
+1718,2024-10-06,Mumbai,Andheri,RC 390,Sports,1,350000,350000,New,Sneha,Card
+1719,2024-08-20,Bangalore,Whitefield,RC 200,Sports,3,210000,630000,Returning,Ravi,Cash
+1720,2024-03-04,Bangalore,Whitefield,Duke 200,Naked,3,200000,600000,Returning,Kumar,Card
+1721,2024-07-15,Chennai,T Nagar,RC 200,Sports,3,210000,630000,New,Sneha,Card
+1722,2024-10-16,Bangalore,Whitefield,RC 390,Sports,4,350000,1400000,New,Kumar,EMI
+1723,2024-06-07,Bangalore,Indiranagar,Duke 250,Naked,2,240000,480000,New,Priya,EMI
+1724,2024-11-14,Mumbai,Powai,Duke 250,Naked,1,240000,240000,New,Kumar,Cash
+1725,2024-11-07,Hyderabad,Banjara Hills,RC 200,Sports,4,210000,840000,Returning,Sneha,Cash
+1726,2024-08-14,Mumbai,Andheri,Duke 250,Naked,5,240000,1200000,Returning,Priya,EMI
+1727,2024-10-12,Chennai,T Nagar,Duke 250,Naked,5,240000,1200000,Returning,Sneha,Card
+1728,2024-03-15,Bangalore,Indiranagar,Duke 250,Naked,2,240000,480000,New,Arjun,Cash
+1729,2024-04-01,Chennai,Velachery,Duke 390,Naked,1,300000,300000,New,Ravi,EMI
+1730,2024-10-23,Bangalore,Whitefield,RC 390,Sports,5,350000,1750000,New,Priya,Card
+1731,2024-02-04,Hyderabad,Banjara Hills,Duke 200,Naked,3,200000,600000,Returning,Arjun,EMI
+1732,2024-05-20,Mumbai,Andheri,Duke 390,Naked,4,300000,1200000,New,Ravi,Card
+1733,2024-02-25,Hyderabad,Gachibowli,RC 390,Sports,2,350000,700000,New,Sneha,Cash
+1734,2024-05-12,Chennai,Velachery,RC 390,Sports,3,350000,1050000,Returning,Sneha,EMI
+1735,2024-11-19,Hyderabad,Banjara Hills,RC 390,Sports,5,350000,1750000,Returning,Sneha,Card
+1736,2024-01-01,Mumbai,Powai,Duke 250,Naked,5,240000,1200000,New,Arjun,Cash
+1737,2024-07-30,Chennai,T Nagar,RC 200,Sports,1,210000,210000,New,Sneha,EMI
+1738,2024-04-13,Chennai,Velachery,Duke 390,Naked,5,300000,1500000,New,Ravi,Card
+1739,2024-06-14,Hyderabad,Gachibowli,Duke 200,Naked,3,200000,600000,Returning,Sneha,Card
+1740,2024-01-15,Chennai,T Nagar,Duke 390,Naked,3,300000,900000,Returning,Sneha,Card
+1741,2024-11-26,Bangalore,Indiranagar,Duke 390,Naked,3,300000,900000,Returning,Priya,Cash
+1742,2024-01-29,Bangalore,Whitefield,Duke 250,Naked,4,240000,960000,Returning,Priya,EMI
+1743,2024-12-16,Hyderabad,Gachibowli,RC 390,Sports,5,350000,1750000,New,Kumar,Card
+1744,2024-07-11,Hyderabad,Gachibowli,Duke 200,Naked,2,200000,400000,Returning,Ravi,EMI
+1745,2024-06-10,Bangalore,Whitefield,Duke 250,Naked,5,240000,1200000,New,Arjun,Card
+1746,2024-08-19,Chennai,Velachery,RC 200,Sports,1,210000,210000,Returning,Kumar,EMI
+1747,2024-01-20,Hyderabad,Banjara Hills,RC 390,Sports,3,350000,1050000,New,Ravi,EMI
+1748,2024-03-19,Bangalore,Indiranagar,RC 200,Sports,5,210000,1050000,New,Priya,Card
+1749,2024-02-20,Bangalore,Whitefield,RC 200,Sports,5,210000,1050000,Returning,Arjun,Cash
+1750,2024-01-03,Bangalore,Indiranagar,Duke 200,Naked,4,200000,800000,Returning,Sneha,Cash
+1751,2024-02-22,Hyderabad,Banjara Hills,RC 390,Sports,1,350000,350000,Returning,Priya,Cash
+1752,2024-04-08,Hyderabad,Banjara Hills,RC 390,Sports,3,350000,1050000,New,Arjun,Cash
+1753,2024-03-17,Hyderabad,Gachibowli,RC 390,Sports,3,350000,1050000,Returning,Ravi,EMI
+1754,2024-06-28,Bangalore,Whitefield,Duke 200,Naked,1,200000,200000,New,Kumar,Card
+1755,2024-06-08,Hyderabad,Gachibowli,Duke 250,Naked,3,240000,720000,New,Kumar,Cash
+1756,2024-01-26,Hyderabad,Gachibowli,Duke 200,Naked,2,200000,400000,New,Priya,Card
+1757,2024-12-26,Chennai,Velachery,Duke 200,Naked,1,200000,200000,Returning,Priya,Cash
+1758,2024-08-26,Mumbai,Powai,Duke 390,Naked,3,300000,900000,New,Sneha,Cash
+1759,2024-11-25,Bangalore,Indiranagar,RC 200,Sports,1,210000,210000,Returning,Arjun,Card
+1760,2024-07-05,Mumbai,Powai,Duke 250,Naked,2,240000,480000,New,Sneha,EMI
+1761,2024-02-03,Mumbai,Andheri,Duke 390,Naked,3,300000,900000,Returning,Priya,Cash
+1762,2024-06-27,Mumbai,Andheri,Duke 390,Naked,4,300000,1200000,Returning,Kumar,EMI
+1763,2024-02-06,Bangalore,Indiranagar,RC 200,Sports,1,210000,210000,Returning,Sneha,Card
+1764,2024-05-04,Hyderabad,Gachibowli,RC 200,Sports,5,210000,1050000,Returning,Kumar,Card
+1765,2024-10-29,Bangalore,Whitefield,RC 200,Sports,1,210000,210000,Returning,Kumar,Card
+1766,2024-12-08,Mumbai,Powai,RC 390,Sports,3,350000,1050000,New,Kumar,Card
+1767,2024-02-19,Chennai,Velachery,Duke 200,Naked,5,200000,1000000,Returning,Arjun,Card
+1768,2024-12-16,Mumbai,Andheri,Duke 390,Naked,4,300000,1200000,New,Sneha,Cash
+1769,2024-10-24,Mumbai,Powai,RC 200,Sports,1,210000,210000,New,Kumar,Cash
+1770,2024-10-22,Chennai,T Nagar,Duke 250,Naked,4,240000,960000,Returning,Priya,Card
+1771,2024-06-04,Mumbai,Andheri,Duke 250,Naked,3,240000,720000,Returning,Sneha,Card
+1772,2024-07-25,Mumbai,Powai,Duke 200,Naked,5,200000,1000000,New,Sneha,Card
+1773,2024-10-13,Bangalore,Whitefield,Duke 200,Naked,3,200000,600000,New,Ravi,Card
+1774,2024-10-29,Hyderabad,Banjara Hills,Duke 390,Naked,1,300000,300000,New,Priya,Card
+1775,2024-04-18,Mumbai,Powai,RC 200,Sports,4,210000,840000,Returning,Priya,Card
+1776,2024-03-19,Bangalore,Whitefield,Duke 250,Naked,2,240000,480000,Returning,Arjun,EMI
+1777,2024-09-06,Hyderabad,Banjara Hills,Duke 250,Naked,1,240000,240000,New,Ravi,Cash
+1778,2024-11-05,Mumbai,Andheri,Duke 200,Naked,2,200000,400000,Returning,Priya,Card
+1779,2024-07-15,Mumbai,Andheri,RC 200,Sports,5,210000,1050000,Returning,Sneha,EMI
+1780,2024-05-01,Hyderabad,Banjara Hills,Duke 250,Naked,4,240000,960000,New,Sneha,EMI
+1781,2024-10-17,Hyderabad,Gachibowli,RC 390,Sports,5,350000,1750000,Returning,Ravi,Cash
+1782,2024-09-26,Mumbai,Powai,Duke 200,Naked,5,200000,1000000,Returning,Ravi,Cash
+1783,2024-11-18,Hyderabad,Gachibowli,RC 390,Sports,1,350000,350000,New,Kumar,EMI
+1784,2024-08-28,Chennai,Velachery,RC 390,Sports,1,350000,350000,Returning,Sneha,Cash
+1785,2024-05-28,Mumbai,Powai,RC 390,Sports,3,350000,1050000,Returning,Arjun,EMI
+1786,2024-08-30,Bangalore,Indiranagar,RC 390,Sports,3,350000,1050000,Returning,Ravi,Card
+1787,2024-02-12,Bangalore,Indiranagar,Duke 390,Naked,5,300000,1500000,New,Arjun,EMI
+1788,2024-05-20,Bangalore,Indiranagar,Duke 390,Naked,3,300000,900000,New,Sneha,EMI
+1789,2024-03-18,Hyderabad,Banjara Hills,Duke 200,Naked,5,200000,1000000,New,Sneha,Card
+1790,2024-09-27,Mumbai,Powai,Duke 250,Naked,3,240000,720000,New,Priya,Cash
+1791,2024-07-15,Chennai,Velachery,Duke 200,Naked,2,200000,400000,New,Priya,EMI
+1792,2024-05-15,Bangalore,Whitefield,Duke 250,Naked,2,240000,480000,Returning,Ravi,Card
+1793,2024-08-31,Chennai,T Nagar,Duke 250,Naked,4,240000,960000,Returning,Priya,EMI
+1794,2024-08-10,Bangalore,Whitefield,RC 200,Sports,4,210000,840000,Returning,Kumar,Card
+1795,2024-01-22,Chennai,Velachery,RC 200,Sports,4,210000,840000,Returning,Sneha,Card
+1796,2024-05-16,Chennai,Velachery,RC 200,Sports,5,210000,1050000,Returning,Arjun,EMI
+1797,2024-12-10,Chennai,Velachery,RC 390,Sports,4,350000,1400000,Returning,Kumar,Card
+1798,2024-01-07,Bangalore,Whitefield,Duke 250,Naked,3,240000,720000,New,Ravi,Cash
+1799,2024-05-25,Mumbai,Andheri,RC 390,Sports,1,350000,350000,Returning,Arjun,Cash
+1800,2024-12-02,Hyderabad,Banjara Hills,Duke 200,Naked,1,200000,200000,New,Ravi,Card
+1801,2024-11-27,Bangalore,Indiranagar,Duke 200,Naked,1,200000,200000,New,Priya,Card
+1802,2024-02-08,Bangalore,Indiranagar,Duke 250,Naked,3,240000,720000,Returning,Priya,Card
+1803,2024-05-21,Mumbai,Powai,RC 200,Sports,3,210000,630000,Returning,Kumar,Cash
+1804,2024-04-01,Chennai,Velachery,RC 200,Sports,3,210000,630000,New,Arjun,EMI
+1805,2024-09-08,Mumbai,Andheri,RC 200,Sports,2,210000,420000,Returning,Kumar,Card
+1806,2024-02-24,Chennai,T Nagar,RC 390,Sports,4,350000,1400000,New,Sneha,Card
+1807,2024-05-08,Mumbai,Powai,Duke 200,Naked,1,200000,200000,New,Ravi,Card
+1808,2024-07-18,Mumbai,Andheri,RC 200,Sports,2,210000,420000,New,Ravi,Card
+1809,2024-09-08,Hyderabad,Banjara Hills,Duke 390,Naked,4,300000,1200000,New,Sneha,Card
+1810,2024-12-18,Mumbai,Powai,RC 200,Sports,1,210000,210000,New,Ravi,EMI
+1811,2024-06-04,Mumbai,Andheri,RC 390,Sports,5,350000,1750000,Returning,Arjun,Card
+1812,2024-05-28,Mumbai,Andheri,Duke 200,Naked,3,200000,600000,Returning,Ravi,EMI
+1813,2024-12-22,Bangalore,Indiranagar,RC 390,Sports,1,350000,350000,Returning,Kumar,EMI
+1814,2024-04-07,Mumbai,Andheri,Duke 390,Naked,4,300000,1200000,New,Priya,Card
+1815,2024-02-02,Bangalore,Indiranagar,Duke 250,Naked,1,240000,240000,New,Priya,EMI
+1816,2024-01-29,Hyderabad,Gachibowli,RC 390,Sports,4,350000,1400000,New,Ravi,EMI
+1817,2024-12-13,Hyderabad,Banjara Hills,RC 200,Sports,1,210000,210000,New,Sneha,EMI
+1818,2024-01-10,Bangalore,Indiranagar,Duke 200,Naked,1,200000,200000,New,Priya,Card
+1819,2024-01-26,Mumbai,Andheri,Duke 250,Naked,2,240000,480000,New,Kumar,Card
+1820,2024-02-24,Hyderabad,Banjara Hills,RC 200,Sports,5,210000,1050000,New,Sneha,Cash
+1821,2024-08-06,Chennai,Velachery,RC 390,Sports,5,350000,1750000,New,Ravi,Cash
+1822,2024-01-24,Hyderabad,Gachibowli,Duke 390,Naked,1,300000,300000,New,Arjun,Cash
+1823,2024-03-27,Bangalore,Whitefield,Duke 200,Naked,1,200000,200000,Returning,Kumar,EMI
+1824,2024-11-19,Hyderabad,Banjara Hills,RC 200,Sports,2,210000,420000,New,Kumar,Cash
+1825,2024-04-01,Mumbai,Andheri,Duke 200,Naked,4,200000,800000,New,Ravi,Cash
+1826,2024-11-23,Chennai,Velachery,RC 200,Sports,4,210000,840000,New,Kumar,Cash
+1827,2024-01-20,Hyderabad,Gachibowli,RC 200,Sports,2,210000,420000,New,Sneha,Card
+1828,2024-01-03,Bangalore,Whitefield,RC 390,Sports,1,350000,350000,Returning,Arjun,EMI
+1829,2024-10-03,Bangalore,Indiranagar,Duke 200,Naked,5,200000,1000000,New,Sneha,EMI
+1830,2024-03-17,Bangalore,Whitefield,Duke 250,Naked,3,240000,720000,New,Kumar,Cash
+1831,2024-07-05,Mumbai,Powai,Duke 250,Naked,2,240000,480000,New,Ravi,Card
+1832,2024-01-23,Hyderabad,Banjara Hills,RC 200,Sports,3,210000,630000,Returning,Sneha,EMI
+1833,2024-09-20,Chennai,T Nagar,RC 390,Sports,2,350000,700000,New,Ravi,EMI
+1834,2024-12-12,Chennai,T Nagar,Duke 250,Naked,4,240000,960000,Returning,Priya,Cash
+1835,2024-07-30,Hyderabad,Banjara Hills,Duke 200,Naked,3,200000,600000,New,Ravi,Cash
+1836,2024-01-28,Bangalore,Whitefield,Duke 250,Naked,1,240000,240000,Returning,Sneha,EMI
+1837,2024-07-10,Mumbai,Andheri,Duke 250,Naked,5,240000,1200000,Returning,Kumar,EMI
+1838,2024-03-06,Bangalore,Whitefield,Duke 250,Naked,3,240000,720000,Returning,Kumar,EMI
+1839,2024-08-02,Chennai,T Nagar,Duke 390,Naked,2,300000,600000,New,Priya,EMI
+1840,2024-10-22,Bangalore,Whitefield,Duke 250,Naked,3,240000,720000,New,Sneha,Cash
+1841,2024-08-30,Bangalore,Indiranagar,RC 200,Sports,5,210000,1050000,Returning,Kumar,Card
+1842,2024-08-10,Mumbai,Powai,Duke 200,Naked,4,200000,800000,New,Kumar,EMI
+1843,2024-08-28,Bangalore,Indiranagar,RC 390,Sports,1,350000,350000,Returning,Ravi,Cash
+1844,2024-09-10,Chennai,Velachery,RC 390,Sports,4,350000,1400000,Returning,Ravi,EMI
+1845,2024-07-02,Bangalore,Indiranagar,RC 390,Sports,1,350000,350000,Returning,Kumar,Cash
+1846,2024-12-26,Hyderabad,Banjara Hills,Duke 200,Naked,1,200000,200000,Returning,Arjun,Cash
+1847,2024-07-08,Mumbai,Andheri,RC 200,Sports,4,210000,840000,New,Priya,Cash
+1848,2024-05-31,Mumbai,Andheri,Duke 200,Naked,4,200000,800000,Returning,Sneha,Cash
+1849,2024-06-20,Mumbai,Powai,RC 390,Sports,5,350000,1750000,New,Ravi,Card
+1850,2024-11-12,Chennai,Velachery,Duke 200,Naked,1,200000,200000,Returning,Arjun,EMI
+1851,2024-04-14,Chennai,Velachery,Duke 390,Naked,2,300000,600000,New,Sneha,Card
+1852,2024-10-24,Bangalore,Whitefield,Duke 250,Naked,5,240000,1200000,New,Priya,Card
+1853,2024-08-04,Bangalore,Indiranagar,Duke 390,Naked,3,300000,900000,Returning,Sneha,Card
+1854,2024-09-13,Hyderabad,Banjara Hills,Duke 200,Naked,3,200000,600000,Returning,Priya,EMI
+1855,2024-07-07,Chennai,Velachery,RC 390,Sports,5,350000,1750000,Returning,Priya,Card
+1856,2024-05-27,Chennai,T Nagar,RC 200,Sports,1,210000,210000,New,Priya,Cash
+1857,2024-03-18,Chennai,T Nagar,Duke 250,Naked,3,240000,720000,New,Kumar,EMI
+1858,2024-08-03,Bangalore,Indiranagar,Duke 390,Naked,4,300000,1200000,New,Priya,EMI
+1859,2024-09-23,Mumbai,Andheri,Duke 390,Naked,2,300000,600000,New,Ravi,Cash
+1860,2024-12-06,Hyderabad,Gachibowli,RC 390,Sports,3,350000,1050000,Returning,Priya,Card
+1861,2024-05-13,Mumbai,Powai,Duke 390,Naked,5,300000,1500000,New,Arjun,Cash
+1862,2024-05-25,Bangalore,Whitefield,Duke 390,Naked,3,300000,900000,New,Kumar,EMI
+1863,2024-12-28,Mumbai,Andheri,RC 390,Sports,2,350000,700000,Returning,Kumar,Cash
+1864,2024-03-05,Bangalore,Indiranagar,Duke 250,Naked,1,240000,240000,New,Arjun,Card
+1865,2024-01-18,Mumbai,Powai,Duke 390,Naked,2,300000,600000,New,Sneha,Card
+1866,2024-09-30,Hyderabad,Gachibowli,Duke 250,Naked,3,240000,720000,Returning,Sneha,Cash
+1867,2024-06-12,Hyderabad,Banjara Hills,Duke 200,Naked,4,200000,800000,Returning,Kumar,EMI
+1868,2024-05-28,Bangalore,Indiranagar,RC 390,Sports,5,350000,1750000,Returning,Arjun,EMI
+1869,2024-12-13,Bangalore,Whitefield,Duke 390,Naked,1,300000,300000,Returning,Ravi,Cash
+1870,2024-02-17,Chennai,Velachery,Duke 200,Naked,4,200000,800000,New,Priya,EMI
+1871,2024-01-12,Hyderabad,Banjara Hills,RC 390,Sports,2,350000,700000,New,Arjun,Cash
+1872,2024-06-11,Chennai,Velachery,Duke 200,Naked,5,200000,1000000,Returning,Kumar,EMI
+1873,2024-07-09,Chennai,Velachery,RC 200,Sports,2,210000,420000,Returning,Arjun,EMI
+1874,2024-02-14,Chennai,Velachery,Duke 390,Naked,3,300000,900000,Returning,Priya,Card
+1875,2024-08-05,Bangalore,Whitefield,RC 200,Sports,4,210000,840000,Returning,Kumar,Card
+1876,2024-06-04,Mumbai,Andheri,RC 390,Sports,5,350000,1750000,New,Kumar,Cash
+1877,2024-07-28,Mumbai,Powai,Duke 200,Naked,5,200000,1000000,Returning,Ravi,Cash
+1878,2024-04-12,Hyderabad,Gachibowli,Duke 250,Naked,5,240000,1200000,Returning,Sneha,Cash
+1879,2024-10-26,Bangalore,Whitefield,Duke 390,Naked,5,300000,1500000,Returning,Ravi,EMI
+1880,2024-03-19,Hyderabad,Gachibowli,RC 390,Sports,4,350000,1400000,New,Ravi,Cash
+1881,2024-09-08,Hyderabad,Gachibowli,RC 200,Sports,1,210000,210000,Returning,Priya,Cash
+1882,2024-07-04,Bangalore,Indiranagar,Duke 200,Naked,3,200000,600000,Returning,Ravi,Card
+1883,2024-10-21,Mumbai,Powai,Duke 390,Naked,4,300000,1200000,New,Arjun,Card
+1884,2024-08-24,Chennai,Velachery,Duke 250,Naked,5,240000,1200000,New,Kumar,EMI
+1885,2024-11-21,Bangalore,Whitefield,Duke 250,Naked,1,240000,240000,Returning,Arjun,EMI
+1886,2024-11-17,Hyderabad,Banjara Hills,Duke 390,Naked,3,300000,900000,New,Sneha,Cash
+1887,2024-06-03,Bangalore,Indiranagar,RC 390,Sports,2,350000,700000,Returning,Arjun,Card
+1888,2024-03-11,Hyderabad,Gachibowli,Duke 200,Naked,5,200000,1000000,Returning,Kumar,Cash
+1889,2024-04-21,Hyderabad,Gachibowli,RC 200,Sports,4,210000,840000,Returning,Kumar,Cash
+1890,2024-02-09,Bangalore,Indiranagar,Duke 250,Naked,5,240000,1200000,New,Priya,EMI
+1891,2024-07-04,Chennai,T Nagar,Duke 200,Naked,4,200000,800000,Returning,Arjun,Card
+1892,2024-06-04,Bangalore,Whitefield,RC 390,Sports,5,350000,1750000,Returning,Kumar,Card
+1893,2024-03-05,Chennai,T Nagar,Duke 250,Naked,2,240000,480000,New,Kumar,EMI
+1894,2024-09-04,Bangalore,Indiranagar,Duke 200,Naked,4,200000,800000,New,Ravi,Cash
+1895,2024-01-31,Mumbai,Andheri,Duke 250,Naked,1,240000,240000,New,Sneha,Card
+1896,2024-01-06,Mumbai,Andheri,Duke 390,Naked,1,300000,300000,New,Arjun,Card
+1897,2024-06-28,Chennai,T Nagar,RC 390,Sports,2,350000,700000,New,Kumar,Card
+1898,2024-09-13,Chennai,T Nagar,Duke 250,Naked,3,240000,720000,Returning,Arjun,Cash
+1899,2024-04-08,Bangalore,Indiranagar,Duke 200,Naked,5,200000,1000000,New,Sneha,Cash
+1900,2024-12-28,Hyderabad,Banjara Hills,RC 390,Sports,1,350000,350000,New,Kumar,Card
+1901,2024-06-30,Mumbai,Powai,RC 390,Sports,2,350000,700000,Returning,Ravi,Cash
+1902,2024-06-09,Mumbai,Powai,Duke 250,Naked,5,240000,1200000,New,Priya,Cash
+1903,2024-12-26,Chennai,Velachery,Duke 200,Naked,5,200000,1000000,New,Priya,EMI
+1904,2024-05-25,Hyderabad,Banjara Hills,Duke 200,Naked,3,200000,600000,Returning,Ravi,EMI
+1905,2024-04-06,Mumbai,Powai,RC 200,Sports,2,210000,420000,Returning,Arjun,EMI
+1906,2024-02-23,Chennai,Velachery,Duke 390,Naked,2,300000,600000,New,Priya,Card
+1907,2024-07-24,Mumbai,Powai,RC 390,Sports,1,350000,350000,New,Kumar,EMI
+1908,2024-10-31,Chennai,T Nagar,Duke 200,Naked,3,200000,600000,New,Arjun,Cash
+1909,2024-10-24,Mumbai,Andheri,Duke 250,Naked,4,240000,960000,Returning,Arjun,Card
+1910,2024-05-22,Hyderabad,Gachibowli,Duke 390,Naked,4,300000,1200000,Returning,Priya,Card
+1911,2024-04-28,Bangalore,Whitefield,Duke 200,Naked,1,200000,200000,Returning,Priya,EMI
+1912,2024-01-14,Bangalore,Indiranagar,Duke 200,Naked,1,200000,200000,New,Priya,Card
+1913,2024-11-15,Bangalore,Whitefield,RC 390,Sports,3,350000,1050000,New,Arjun,Card
+1914,2024-12-04,Chennai,T Nagar,RC 390,Sports,4,350000,1400000,Returning,Kumar,EMI
+1915,2024-01-10,Mumbai,Powai,RC 390,Sports,3,350000,1050000,Returning,Sneha,Card
+1916,2024-08-14,Chennai,Velachery,Duke 200,Naked,4,200000,800000,Returning,Arjun,EMI
+1917,2024-08-08,Mumbai,Andheri,Duke 200,Naked,2,200000,400000,Returning,Kumar,EMI
+1918,2024-09-08,Bangalore,Whitefield,RC 200,Sports,4,210000,840000,New,Sneha,Card
+1919,2024-09-10,Mumbai,Powai,RC 390,Sports,2,350000,700000,New,Priya,EMI
+1920,2024-01-24,Mumbai,Powai,Duke 390,Naked,3,300000,900000,New,Ravi,Card
+1921,2024-02-19,Bangalore,Whitefield,Duke 390,Naked,5,300000,1500000,New,Arjun,EMI
+1922,2024-05-05,Mumbai,Powai,Duke 390,Naked,4,300000,1200000,Returning,Ravi,Card
+1923,2024-02-28,Bangalore,Indiranagar,Duke 390,Naked,5,300000,1500000,New,Ravi,EMI
+1924,2024-12-02,Hyderabad,Banjara Hills,Duke 200,Naked,5,200000,1000000,Returning,Ravi,EMI
+1925,2024-06-11,Mumbai,Powai,Duke 390,Naked,1,300000,300000,Returning,Sneha,Cash
+1926,2024-12-19,Mumbai,Powai,Duke 390,Naked,5,300000,1500000,New,Priya,Cash
+1927,2024-06-02,Bangalore,Whitefield,RC 200,Sports,5,210000,1050000,Returning,Kumar,Card
+1928,2024-05-27,Hyderabad,Gachibowli,Duke 250,Naked,4,240000,960000,New,Sneha,Cash
+1929,2024-02-17,Hyderabad,Banjara Hills,Duke 390,Naked,5,300000,1500000,Returning,Kumar,Card
+1930,2024-06-26,Chennai,Velachery,Duke 390,Naked,1,300000,300000,Returning,Priya,Cash
+1931,2024-04-12,Chennai,Velachery,RC 390,Sports,3,350000,1050000,Returning,Sneha,EMI
+1932,2024-01-10,Mumbai,Powai,Duke 390,Naked,5,300000,1500000,Returning,Sneha,Cash
+1933,2024-08-10,Bangalore,Whitefield,Duke 250,Naked,4,240000,960000,Returning,Sneha,Card
+1934,2024-12-16,Chennai,T Nagar,Duke 390,Naked,4,300000,1200000,New,Kumar,Cash
+1935,2024-05-16,Hyderabad,Gachibowli,RC 200,Sports,3,210000,630000,New,Kumar,EMI
+1936,2024-02-28,Hyderabad,Banjara Hills,Duke 390,Naked,5,300000,1500000,New,Priya,Cash
+1937,2024-10-13,Bangalore,Indiranagar,Duke 200,Naked,2,200000,400000,Returning,Priya,EMI
+1938,2024-01-15,Mumbai,Powai,Duke 200,Naked,2,200000,400000,New,Arjun,Cash
+1939,2024-01-29,Hyderabad,Gachibowli,RC 390,Sports,2,350000,700000,New,Priya,Cash
+1940,2024-12-09,Chennai,Velachery,RC 390,Sports,3,350000,1050000,New,Priya,EMI
+1941,2024-09-13,Chennai,Velachery,Duke 250,Naked,2,240000,480000,New,Sneha,Card
+1942,2024-06-09,Chennai,Velachery,RC 200,Sports,1,210000,210000,New,Sneha,Cash
+1943,2024-03-30,Hyderabad,Gachibowli,Duke 250,Naked,4,240000,960000,New,Kumar,Cash
+1944,2024-09-08,Bangalore,Whitefield,RC 200,Sports,4,210000,840000,Returning,Sneha,Cash
+1945,2024-05-06,Hyderabad,Banjara Hills,Duke 390,Naked,5,300000,1500000,Returning,Priya,Card
+1946,2024-11-26,Hyderabad,Banjara Hills,Duke 390,Naked,4,300000,1200000,Returning,Arjun,Cash
+1947,2024-12-24,Chennai,T Nagar,Duke 250,Naked,3,240000,720000,Returning,Arjun,Card
+1948,2024-07-20,Hyderabad,Banjara Hills,RC 390,Sports,2,350000,700000,Returning,Priya,Cash
+1949,2024-08-12,Hyderabad,Gachibowli,Duke 200,Naked,2,200000,400000,Returning,Kumar,Cash
+1950,2024-07-30,Hyderabad,Gachibowli,Duke 200,Naked,3,200000,600000,New,Priya,EMI
+1951,2024-06-29,Hyderabad,Gachibowli,Duke 200,Naked,2,200000,400000,Returning,Sneha,Cash
+1952,2024-08-15,Mumbai,Powai,RC 200,Sports,1,210000,210000,New,Kumar,Card
+1953,2024-02-12,Bangalore,Indiranagar,RC 200,Sports,2,210000,420000,Returning,Arjun,Card
+1954,2024-07-29,Chennai,T Nagar,Duke 250,Naked,5,240000,1200000,New,Sneha,Card
+1955,2024-10-30,Hyderabad,Gachibowli,RC 200,Sports,2,210000,420000,Returning,Kumar,Card
+1956,2024-07-20,Hyderabad,Gachibowli,Duke 250,Naked,1,240000,240000,Returning,Arjun,Cash
+1957,2024-04-11,Mumbai,Andheri,Duke 200,Naked,1,200000,200000,New,Ravi,EMI
+1958,2024-03-17,Hyderabad,Banjara Hills,Duke 200,Naked,4,200000,800000,Returning,Sneha,EMI
+1959,2024-09-26,Chennai,Velachery,Duke 250,Naked,5,240000,1200000,New,Ravi,Card
+1960,2024-05-16,Mumbai,Powai,RC 200,Sports,1,210000,210000,New,Kumar,Cash
+1961,2024-04-20,Hyderabad,Gachibowli,RC 200,Sports,2,210000,420000,Returning,Kumar,Card
+1962,2024-05-28,Hyderabad,Banjara Hills,RC 200,Sports,2,210000,420000,Returning,Kumar,Cash
+1963,2024-12-16,Hyderabad,Banjara Hills,RC 390,Sports,4,350000,1400000,New,Arjun,Card
+1964,2024-07-22,Mumbai,Andheri,Duke 200,Naked,4,200000,800000,New,Arjun,Card
+1965,2024-10-12,Bangalore,Whitefield,RC 200,Sports,5,210000,1050000,Returning,Ravi,Cash
+1966,2024-12-09,Chennai,T Nagar,Duke 390,Naked,2,300000,600000,Returning,Arjun,Card
+1967,2024-12-09,Chennai,T Nagar,Duke 390,Naked,5,300000,1500000,Returning,Arjun,EMI
+1968,2024-09-14,Hyderabad,Banjara Hills,RC 390,Sports,1,350000,350000,New,Arjun,Cash
+1969,2024-09-28,Mumbai,Powai,RC 200,Sports,2,210000,420000,New,Arjun,Card
+1970,2024-09-12,Mumbai,Andheri,Duke 390,Naked,1,300000,300000,Returning,Ravi,Cash
+1971,2024-09-21,Hyderabad,Gachibowli,RC 200,Sports,3,210000,630000,Returning,Sneha,EMI
+1972,2024-12-02,Hyderabad,Gachibowli,Duke 250,Naked,3,240000,720000,Returning,Kumar,Card
+1973,2024-01-19,Mumbai,Andheri,Duke 250,Naked,2,240000,480000,New,Kumar,Cash
+1974,2024-01-21,Mumbai,Powai,Duke 250,Naked,4,240000,960000,Returning,Ravi,EMI
+1975,2024-03-16,Mumbai,Powai,RC 390,Sports,4,350000,1400000,Returning,Priya,Cash
+1976,2024-09-17,Chennai,Velachery,Duke 200,Naked,2,200000,400000,Returning,Kumar,Cash
+1977,2024-05-06,Hyderabad,Banjara Hills,RC 390,Sports,1,350000,350000,New,Priya,Cash
+1978,2024-07-10,Mumbai,Andheri,Duke 390,Naked,1,300000,300000,Returning,Ravi,EMI
+1979,2024-12-03,Chennai,Velachery,Duke 250,Naked,1,240000,240000,New,Priya,Card
+1980,2024-12-01,Mumbai,Powai,Duke 390,Naked,5,300000,1500000,New,Arjun,Cash
+1981,2024-05-24,Mumbai,Powai,RC 390,Sports,2,350000,700000,New,Ravi,Card
+1982,2024-05-10,Hyderabad,Banjara Hills,Duke 200,Naked,5,200000,1000000,Returning,Ravi,EMI
+1983,2024-07-17,Bangalore,Indiranagar,RC 200,Sports,1,210000,210000,New,Kumar,Cash
+1984,2024-06-07,Mumbai,Powai,Duke 250,Naked,1,240000,240000,Returning,Priya,EMI
+1985,2024-07-17,Bangalore,Whitefield,Duke 200,Naked,3,200000,600000,New,Priya,EMI
+1986,2024-07-07,Mumbai,Powai,RC 390,Sports,5,350000,1750000,Returning,Ravi,EMI
+1987,2024-08-25,Bangalore,Whitefield,RC 200,Sports,1,210000,210000,New,Sneha,EMI
+1988,2024-08-11,Bangalore,Indiranagar,RC 200,Sports,5,210000,1050000,New,Arjun,EMI
+1989,2024-09-24,Chennai,Velachery,Duke 390,Naked,2,300000,600000,New,Arjun,Cash
+1990,2024-02-25,Mumbai,Powai,RC 390,Sports,1,350000,350000,New,Ravi,Card
+1991,2024-10-26,Mumbai,Powai,Duke 200,Naked,4,200000,800000,Returning,Arjun,EMI
+1992,2024-01-24,Chennai,T Nagar,Duke 200,Naked,4,200000,800000,New,Kumar,EMI
+1993,2024-05-15,Chennai,Velachery,Duke 390,Naked,3,300000,900000,Returning,Priya,Card
+1994,2024-12-10,Hyderabad,Banjara Hills,Duke 250,Naked,2,240000,480000,New,Sneha,EMI
+1995,2024-01-07,Chennai,Velachery,RC 390,Sports,1,350000,350000,New,Priya,Cash
+1996,2024-11-11,Bangalore,Whitefield,RC 200,Sports,4,210000,840000,Returning,Arjun,Card
+1997,2024-04-07,Hyderabad,Gachibowli,Duke 390,Naked,1,300000,300000,New,Kumar,Cash
+1998,2024-03-15,Chennai,T Nagar,Duke 250,Naked,1,240000,240000,New,Priya,Card
+1999,2024-03-16,Bangalore,Whitefield,RC 390,Sports,2,350000,700000,New,Arjun,EMI
+2000,2024-12-25,Mumbai,Powai,Duke 200,Naked,1,200000,200000,New,Kumar,Card
+2001,2024-04-13,Mumbai,Powai,RC 200,Sports,1,210000,210000,Returning,Sneha,Cash
+2002,2024-08-09,Hyderabad,Gachibowli,Duke 200,Naked,3,200000,600000,New,Ravi,Card
+2003,2024-07-23,Mumbai,Powai,RC 390,Sports,5,350000,1750000,Returning,Ravi,EMI
+2004,2024-06-10,Mumbai,Powai,Duke 250,Naked,1,240000,240000,New,Priya,Card
+2005,2024-11-26,Chennai,Velachery,RC 200,Sports,4,210000,840000,New,Priya,Card
+2006,2024-04-08,Hyderabad,Gachibowli,RC 200,Sports,1,210000,210000,New,Arjun,Card
+2007,2024-06-22,Mumbai,Powai,RC 200,Sports,2,210000,420000,New,Sneha,Card
+2008,2024-03-23,Mumbai,Andheri,Duke 390,Naked,4,300000,1200000,Returning,Arjun,EMI
+2009,2024-03-21,Bangalore,Whitefield,Duke 200,Naked,4,200000,800000,New,Kumar,Cash
+2010,2024-10-12,Mumbai,Andheri,RC 200,Sports,4,210000,840000,Returning,Kumar,Cash
+2011,2024-09-14,Chennai,T Nagar,Duke 390,Naked,3,300000,900000,Returning,Kumar,Cash
+2012,2024-03-02,Chennai,T Nagar,Duke 390,Naked,4,300000,1200000,New,Sneha,Cash
+2013,2024-05-16,Bangalore,Whitefield,Duke 390,Naked,3,300000,900000,Returning,Ravi,Card
+2014,2024-11-08,Bangalore,Indiranagar,Duke 200,Naked,4,200000,800000,Returning,Ravi,Cash
+2015,2024-07-04,Chennai,T Nagar,RC 390,Sports,1,350000,350000,New,Ravi,Cash
+2016,2024-11-27,Bangalore,Whitefield,RC 200,Sports,5,210000,1050000,Returning,Ravi,Cash
+2017,2024-01-04,Hyderabad,Gachibowli,Duke 250,Naked,1,240000,240000,New,Priya,EMI
+2018,2024-07-09,Bangalore,Whitefield,Duke 390,Naked,3,300000,900000,New,Ravi,EMI
+2019,2024-08-07,Mumbai,Powai,Duke 250,Naked,2,240000,480000,Returning,Kumar,Cash
+2020,2024-03-15,Mumbai,Powai,RC 200,Sports,5,210000,1050000,Returning,Ravi,EMI
+2021,2024-08-10,Chennai,T Nagar,Duke 200,Naked,3,200000,600000,Returning,Priya,Cash
+2022,2024-08-02,Chennai,Velachery,Duke 200,Naked,2,200000,400000,New,Sneha,EMI
+2023,2024-11-08,Mumbai,Powai,Duke 390,Naked,3,300000,900000,New,Arjun,Card
+2024,2024-07-26,Bangalore,Whitefield,RC 200,Sports,2,210000,420000,Returning,Arjun,Card
+2025,2024-03-05,Bangalore,Whitefield,Duke 200,Naked,1,200000,200000,Returning,Priya,Card
+2026,2024-11-21,Hyderabad,Banjara Hills,Duke 200,Naked,5,200000,1000000,Returning,Sneha,EMI
+2027,2024-08-04,Bangalore,Indiranagar,Duke 200,Naked,5,200000,1000000,Returning,Kumar,EMI
+2028,2024-11-29,Chennai,T Nagar,Duke 390,Naked,3,300000,900000,Returning,Ravi,Cash
+2029,2024-04-30,Chennai,Velachery,Duke 390,Naked,5,300000,1500000,New,Priya,EMI
+2030,2024-05-06,Bangalore,Whitefield,Duke 390,Naked,3,300000,900000,New,Priya,Card
+2031,2024-02-20,Chennai,Velachery,RC 390,Sports,5,350000,1750000,New,Arjun,EMI
+2032,2024-03-07,Bangalore,Whitefield,RC 200,Sports,1,210000,210000,New,Ravi,EMI
+2033,2024-10-28,Mumbai,Andheri,RC 200,Sports,1,210000,210000,Returning,Sneha,EMI
+2034,2024-09-07,Mumbai,Powai,RC 390,Sports,4,350000,1400000,Returning,Priya,Card
+2035,2024-08-22,Mumbai,Andheri,Duke 250,Naked,5,240000,1200000,New,Priya,Card
+2036,2024-03-21,Bangalore,Indiranagar,Duke 250,Naked,4,240000,960000,Returning,Ravi,Card
+2037,2024-10-19,Hyderabad,Banjara Hills,RC 390,Sports,4,350000,1400000,New,Ravi,EMI
+2038,2024-07-10,Hyderabad,Banjara Hills,RC 390,Sports,2,350000,700000,New,Arjun,EMI
+2039,2024-08-03,Hyderabad,Gachibowli,RC 200,Sports,1,210000,210000,New,Kumar,Card
+2040,2024-03-03,Chennai,Velachery,Duke 390,Naked,2,300000,600000,New,Priya,Cash
+2041,2024-10-16,Hyderabad,Banjara Hills,Duke 200,Naked,4,200000,800000,Returning,Sneha,EMI
+2042,2024-11-21,Mumbai,Powai,RC 200,Sports,4,210000,840000,New,Kumar,Card
+2043,2024-12-06,Mumbai,Powai,RC 200,Sports,2,210000,420000,Returning,Ravi,Card
+2044,2024-12-09,Mumbai,Powai,Duke 250,Naked,4,240000,960000,Returning,Sneha,Cash
+2045,2024-12-28,Mumbai,Powai,Duke 200,Naked,2,200000,400000,New,Sneha,Card
+2046,2024-10-22,Hyderabad,Banjara Hills,RC 390,Sports,1,350000,350000,New,Sneha,Card
+2047,2024-09-29,Chennai,T Nagar,RC 200,Sports,5,210000,1050000,New,Ravi,Card
+2048,2024-02-13,Bangalore,Indiranagar,Duke 390,Naked,2,300000,600000,New,Sneha,EMI
+2049,2024-08-11,Hyderabad,Gachibowli,RC 390,Sports,1,350000,350000,Returning,Ravi,EMI
+2050,2024-02-16,Bangalore,Whitefield,Duke 200,Naked,5,200000,1000000,Returning,Priya,EMI
+2051,2024-05-10,Chennai,T Nagar,RC 390,Sports,2,350000,700000,Returning,Kumar,Cash
+2052,2024-06-15,Chennai,T Nagar,Duke 390,Naked,4,300000,1200000,New,Ravi,Card
+2053,2024-03-13,Bangalore,Indiranagar,Duke 200,Naked,3,200000,600000,Returning,Ravi,EMI
+2054,2024-05-02,Mumbai,Powai,Duke 390,Naked,4,300000,1200000,New,Ravi,Cash
+2055,2024-02-01,Bangalore,Whitefield,RC 390,Sports,5,350000,1750000,Returning,Ravi,EMI
+2056,2024-07-27,Hyderabad,Gachibowli,RC 390,Sports,4,350000,1400000,New,Priya,Cash
+2057,2024-11-29,Bangalore,Indiranagar,Duke 390,Naked,5,300000,1500000,New,Kumar,Card
+2058,2024-09-13,Bangalore,Whitefield,RC 390,Sports,4,350000,1400000,Returning,Ravi,Card
+2059,2024-08-04,Bangalore,Indiranagar,Duke 390,Naked,5,300000,1500000,New,Kumar,Card
+2060,2024-01-31,Mumbai,Andheri,Duke 200,Naked,4,200000,800000,Returning,Kumar,Cash
+2061,2024-04-18,Mumbai,Powai,RC 390,Sports,3,350000,1050000,Returning,Arjun,Card
+2062,2024-07-21,Hyderabad,Banjara Hills,Duke 250,Naked,5,240000,1200000,New,Arjun,Cash
+2063,2024-09-15,Chennai,T Nagar,RC 390,Sports,3,350000,1050000,Returning,Kumar,Card
+2064,2024-06-13,Hyderabad,Gachibowli,Duke 390,Naked,4,300000,1200000,Returning,Kumar,Card
+2065,2024-03-09,Hyderabad,Banjara Hills,RC 200,Sports,5,210000,1050000,Returning,Ravi,Card
+2066,2024-12-22,Chennai,Velachery,Duke 200,Naked,1,200000,200000,New,Priya,Card
+2067,2024-12-09,Mumbai,Powai,RC 390,Sports,1,350000,350000,New,Sneha,Cash
+2068,2024-12-22,Mumbai,Andheri,Duke 390,Naked,4,300000,1200000,Returning,Priya,Cash
+2069,2024-04-23,Chennai,T Nagar,RC 200,Sports,3,210000,630000,New,Priya,Cash
+2070,2024-06-04,Chennai,Velachery,Duke 390,Naked,2,300000,600000,New,Sneha,Card
+2071,2024-12-26,Bangalore,Indiranagar,RC 200,Sports,3,210000,630000,New,Arjun,EMI
+2072,2024-09-13,Bangalore,Indiranagar,Duke 250,Naked,4,240000,960000,New,Arjun,Card
+2073,2024-03-06,Mumbai,Andheri,RC 390,Sports,2,350000,700000,New,Ravi,Card
+2074,2024-05-20,Chennai,T Nagar,Duke 390,Naked,5,300000,1500000,New,Sneha,Card
+2075,2024-01-02,Bangalore,Indiranagar,RC 390,Sports,5,350000,1750000,Returning,Sneha,EMI
+2076,2024-12-14,Mumbai,Andheri,Duke 390,Naked,4,300000,1200000,Returning,Arjun,Cash
+2077,2024-05-22,Mumbai,Powai,Duke 390,Naked,5,300000,1500000,New,Kumar,Cash
+2078,2024-02-11,Mumbai,Powai,Duke 390,Naked,1,300000,300000,Returning,Kumar,EMI
+2079,2024-06-17,Chennai,T Nagar,RC 200,Sports,1,210000,210000,New,Kumar,Cash
+2080,2024-10-30,Hyderabad,Banjara Hills,Duke 200,Naked,1,200000,200000,Returning,Priya,Cash
+2081,2024-01-28,Hyderabad,Gachibowli,Duke 250,Naked,1,240000,240000,Returning,Kumar,EMI
+2082,2024-08-16,Hyderabad,Banjara Hills,Duke 200,Naked,5,200000,1000000,Returning,Ravi,Card
+2083,2024-02-03,Chennai,T Nagar,Duke 200,Naked,1,200000,200000,Returning,Arjun,Card
+2084,2024-08-09,Bangalore,Indiranagar,RC 200,Sports,1,210000,210000,Returning,Sneha,Card
+2085,2024-07-24,Chennai,T Nagar,Duke 200,Naked,5,200000,1000000,New,Arjun,EMI
+2086,2024-08-25,Chennai,Velachery,Duke 250,Naked,5,240000,1200000,New,Priya,EMI
+2087,2024-10-27,Mumbai,Andheri,Duke 390,Naked,1,300000,300000,Returning,Sneha,EMI
+2088,2024-10-20,Bangalore,Indiranagar,Duke 200,Naked,1,200000,200000,New,Sneha,Cash
+2089,2024-04-05,Bangalore,Whitefield,Duke 390,Naked,4,300000,1200000,Returning,Sneha,EMI
+2090,2024-08-11,Bangalore,Indiranagar,Duke 200,Naked,1,200000,200000,New,Arjun,Card
+2091,2024-06-07,Hyderabad,Gachibowli,RC 390,Sports,5,350000,1750000,New,Kumar,EMI
+2092,2024-09-16,Hyderabad,Gachibowli,Duke 390,Naked,1,300000,300000,New,Ravi,Cash
+2093,2024-06-23,Chennai,Velachery,Duke 390,Naked,2,300000,600000,New,Kumar,Cash
+2094,2024-06-20,Bangalore,Whitefield,RC 200,Sports,5,210000,1050000,Returning,Sneha,Card
+2095,2024-09-10,Hyderabad,Gachibowli,Duke 390,Naked,2,300000,600000,New,Priya,Cash
+2096,2024-05-02,Bangalore,Indiranagar,Duke 250,Naked,2,240000,480000,Returning,Sneha,Cash
+2097,2024-07-04,Mumbai,Powai,RC 200,Sports,2,210000,420000,Returning,Kumar,Cash
+2098,2024-08-13,Chennai,T Nagar,Duke 390,Naked,1,300000,300000,New,Kumar,EMI
+2099,2024-03-30,Bangalore,Whitefield,Duke 200,Naked,1,200000,200000,New,Kumar,EMI
+2100,2024-01-12,Bangalore,Whitefield,Duke 250,Naked,3,240000,720000,New,Kumar,Cash
+2101,2024-02-26,Bangalore,Whitefield,Duke 200,Naked,1,200000,200000,New,Priya,Card
+2102,2024-12-04,Hyderabad,Banjara Hills,Duke 390,Naked,4,300000,1200000,New,Arjun,EMI
+2103,2024-04-08,Bangalore,Whitefield,Duke 200,Naked,1,200000,200000,New,Kumar,Cash
+2104,2024-11-11,Mumbai,Powai,Duke 390,Naked,5,300000,1500000,Returning,Kumar,Cash
+2105,2024-05-23,Bangalore,Whitefield,Duke 250,Naked,3,240000,720000,New,Ravi,Card
+2106,2024-03-26,Bangalore,Whitefield,Duke 250,Naked,1,240000,240000,Returning,Sneha,Cash
+2107,2024-12-30,Mumbai,Powai,RC 200,Sports,5,210000,1050000,Returning,Kumar,EMI
+2108,2024-11-22,Hyderabad,Gachibowli,RC 200,Sports,4,210000,840000,Returning,Sneha,EMI
+2109,2024-04-21,Chennai,T Nagar,Duke 250,Naked,2,240000,480000,Returning,Kumar,EMI
+2110,2024-10-08,Hyderabad,Gachibowli,RC 200,Sports,5,210000,1050000,New,Arjun,EMI
+2111,2024-04-27,Chennai,T Nagar,Duke 200,Naked,3,200000,600000,Returning,Sneha,EMI
+2112,2024-08-27,Chennai,Velachery,RC 390,Sports,5,350000,1750000,Returning,Priya,EMI
+2113,2024-01-13,Mumbai,Powai,Duke 390,Naked,4,300000,1200000,Returning,Arjun,EMI
+2114,2024-05-30,Bangalore,Whitefield,Duke 250,Naked,3,240000,720000,New,Arjun,Cash
+2115,2024-01-20,Chennai,Velachery,Duke 250,Naked,1,240000,240000,New,Ravi,EMI
+2116,2024-12-15,Bangalore,Whitefield,Duke 250,Naked,3,240000,720000,Returning,Arjun,Card
+2117,2024-05-24,Hyderabad,Banjara Hills,RC 390,Sports,2,350000,700000,Returning,Ravi,EMI
+2118,2024-09-19,Hyderabad,Gachibowli,RC 200,Sports,5,210000,1050000,New,Priya,Card
+2119,2024-09-21,Bangalore,Whitefield,Duke 250,Naked,2,240000,480000,New,Priya,Cash
+2120,2024-12-23,Mumbai,Powai,Duke 390,Naked,1,300000,300000,Returning,Kumar,EMI
+2121,2024-10-22,Mumbai,Andheri,RC 200,Sports,4,210000,840000,New,Arjun,Cash
+2122,2024-08-02,Bangalore,Whitefield,Duke 200,Naked,4,200000,800000,Returning,Arjun,Cash
+2123,2024-10-17,Mumbai,Powai,RC 390,Sports,3,350000,1050000,Returning,Sneha,Cash
+2124,2024-07-19,Chennai,T Nagar,Duke 250,Naked,3,240000,720000,Returning,Priya,Cash
+2125,2024-08-19,Chennai,Velachery,Duke 250,Naked,4,240000,960000,New,Arjun,Card
+2126,2024-11-04,Hyderabad,Banjara Hills,Duke 250,Naked,1,240000,240000,New,Ravi,Card
+2127,2024-04-15,Mumbai,Andheri,Duke 250,Naked,2,240000,480000,New,Priya,EMI
+2128,2024-09-22,Bangalore,Whitefield,RC 390,Sports,1,350000,350000,Returning,Ravi,EMI
+2129,2024-03-07,Chennai,T Nagar,Duke 390,Naked,4,300000,1200000,Returning,Kumar,Cash
+2130,2024-06-07,Mumbai,Powai,Duke 200,Naked,4,200000,800000,New,Kumar,Cash
+2131,2024-09-14,Mumbai,Powai,Duke 250,Naked,5,240000,1200000,Returning,Sneha,Cash
+2132,2024-07-23,Mumbai,Powai,Duke 250,Naked,1,240000,240000,New,Priya,Cash
+2133,2024-01-21,Bangalore,Whitefield,RC 390,Sports,4,350000,1400000,Returning,Priya,Card
+2134,2024-03-30,Chennai,Velachery,RC 200,Sports,3,210000,630000,Returning,Priya,Card
+2135,2024-12-03,Mumbai,Andheri,Duke 250,Naked,5,240000,1200000,Returning,Priya,EMI
+2136,2024-11-17,Bangalore,Indiranagar,RC 200,Sports,1,210000,210000,New,Kumar,EMI
+2137,2024-07-07,Hyderabad,Banjara Hills,Duke 250,Naked,4,240000,960000,Returning,Sneha,Cash
+2138,2024-05-09,Chennai,T Nagar,RC 390,Sports,3,350000,1050000,Returning,Priya,Cash
+2139,2024-06-24,Bangalore,Indiranagar,RC 200,Sports,1,210000,210000,New,Priya,EMI
+2140,2024-12-29,Mumbai,Andheri,RC 200,Sports,1,210000,210000,New,Arjun,Cash
+2141,2024-10-07,Bangalore,Whitefield,RC 200,Sports,4,210000,840000,Returning,Ravi,Cash
+2142,2024-01-10,Bangalore,Whitefield,Duke 250,Naked,4,240000,960000,Returning,Kumar,Cash
+2143,2024-12-09,Chennai,T Nagar,Duke 390,Naked,1,300000,300000,Returning,Kumar,Cash
+2144,2024-01-18,Chennai,Velachery,Duke 250,Naked,4,240000,960000,Returning,Kumar,Cash
+2145,2024-06-06,Bangalore,Whitefield,Duke 200,Naked,5,200000,1000000,New,Priya,Card
+2146,2024-05-07,Mumbai,Andheri,RC 390,Sports,1,350000,350000,New,Priya,Cash
+2147,2024-01-08,Hyderabad,Banjara Hills,Duke 250,Naked,1,240000,240000,New,Priya,Cash
+2148,2024-03-26,Hyderabad,Banjara Hills,Duke 200,Naked,2,200000,400000,New,Kumar,Card
+2149,2024-11-16,Chennai,Velachery,RC 390,Sports,1,350000,350000,Returning,Arjun,Card
+2150,2024-04-19,Bangalore,Indiranagar,RC 390,Sports,4,350000,1400000,Returning,Ravi,Cash
+2151,2024-06-10,Chennai,Velachery,Duke 390,Naked,2,300000,600000,New,Priya,Card
+2152,2024-05-22,Chennai,Velachery,Duke 250,Naked,4,240000,960000,New,Ravi,Card
+2153,2024-09-12,Hyderabad,Banjara Hills,Duke 200,Naked,2,200000,400000,Returning,Arjun,Card
+2154,2024-12-21,Chennai,T Nagar,Duke 390,Naked,1,300000,300000,Returning,Priya,Card
+2155,2024-01-10,Bangalore,Whitefield,Duke 250,Naked,3,240000,720000,Returning,Ravi,EMI
+2156,2024-11-11,Mumbai,Powai,RC 390,Sports,2,350000,700000,New,Kumar,Cash
+2157,2024-01-31,Chennai,Velachery,Duke 250,Naked,4,240000,960000,New,Sneha,Cash
+2158,2024-04-14,Bangalore,Whitefield,RC 200,Sports,3,210000,630000,New,Kumar,EMI
+2159,2024-06-11,Chennai,T Nagar,RC 390,Sports,4,350000,1400000,Returning,Kumar,EMI
+2160,2024-05-04,Chennai,Velachery,Duke 390,Naked,1,300000,300000,New,Arjun,EMI
+2161,2024-04-03,Bangalore,Indiranagar,Duke 250,Naked,2,240000,480000,Returning,Sneha,EMI
+2162,2024-11-20,Mumbai,Andheri,Duke 200,Naked,4,200000,800000,New,Kumar,Cash
+2163,2024-04-14,Bangalore,Indiranagar,Duke 250,Naked,1,240000,240000,New,Sneha,Card
+2164,2024-04-11,Bangalore,Indiranagar,RC 200,Sports,4,210000,840000,Returning,Kumar,Card
+2165,2024-10-22,Bangalore,Whitefield,Duke 250,Naked,5,240000,1200000,New,Arjun,EMI
+2166,2024-07-12,Mumbai,Andheri,Duke 390,Naked,4,300000,1200000,New,Arjun,EMI
+2167,2024-01-11,Bangalore,Whitefield,RC 200,Sports,4,210000,840000,Returning,Kumar,EMI
+2168,2024-03-30,Mumbai,Powai,Duke 200,Naked,3,200000,600000,New,Sneha,Card
+2169,2024-10-14,Hyderabad,Gachibowli,RC 200,Sports,3,210000,630000,Returning,Arjun,EMI
+2170,2024-04-07,Mumbai,Andheri,Duke 390,Naked,2,300000,600000,Returning,Kumar,Cash
+2171,2024-07-21,Chennai,T Nagar,RC 390,Sports,3,350000,1050000,Returning,Priya,EMI
+2172,2024-03-04,Hyderabad,Gachibowli,RC 200,Sports,3,210000,630000,New,Priya,Cash
+2173,2024-12-29,Mumbai,Andheri,Duke 250,Naked,4,240000,960000,Returning,Arjun,Card
+2174,2024-09-01,Mumbai,Powai,Duke 200,Naked,4,200000,800000,Returning,Kumar,Cash
+2175,2024-12-14,Chennai,Velachery,Duke 200,Naked,2,200000,400000,Returning,Sneha,EMI
+2176,2024-02-17,Bangalore,Whitefield,Duke 250,Naked,5,240000,1200000,New,Ravi,Cash
+2177,2024-08-06,Mumbai,Powai,RC 390,Sports,1,350000,350000,New,Priya,Cash
+2178,2024-07-29,Hyderabad,Gachibowli,RC 390,Sports,5,350000,1750000,Returning,Sneha,EMI
+2179,2024-04-17,Chennai,T Nagar,RC 390,Sports,3,350000,1050000,New,Arjun,Card
+2180,2024-02-05,Mumbai,Powai,Duke 200,Naked,2,200000,400000,Returning,Ravi,Cash
+2181,2024-04-05,Mumbai,Powai,Duke 390,Naked,4,300000,1200000,New,Kumar,EMI
+2182,2024-04-18,Bangalore,Indiranagar,RC 200,Sports,2,210000,420000,New,Priya,Card
+2183,2024-08-13,Bangalore,Indiranagar,Duke 200,Naked,2,200000,400000,New,Arjun,EMI
+2184,2024-05-21,Chennai,T Nagar,Duke 200,Naked,3,200000,600000,New,Priya,Cash
+2185,2024-12-10,Chennai,Velachery,Duke 200,Naked,5,200000,1000000,New,Priya,EMI
+2186,2024-02-19,Chennai,T Nagar,Duke 200,Naked,3,200000,600000,New,Sneha,Cash
+2187,2024-06-21,Bangalore,Indiranagar,RC 200,Sports,5,210000,1050000,Returning,Priya,EMI
+2188,2024-12-06,Mumbai,Powai,Duke 390,Naked,3,300000,900000,Returning,Kumar,EMI
+2189,2024-01-02,Mumbai,Powai,RC 390,Sports,1,350000,350000,Returning,Arjun,Cash
+2190,2024-12-24,Mumbai,Powai,Duke 250,Naked,1,240000,240000,New,Sneha,EMI
+2191,2024-12-04,Bangalore,Whitefield,RC 200,Sports,5,210000,1050000,Returning,Sneha,EMI
+2192,2024-06-15,Bangalore,Indiranagar,Duke 390,Naked,1,300000,300000,Returning,Ravi,Card
+2193,2024-06-27,Mumbai,Andheri,RC 390,Sports,4,350000,1400000,Returning,Sneha,Cash
+2194,2024-12-30,Mumbai,Powai,Duke 200,Naked,4,200000,800000,Returning,Sneha,Cash
+2195,2024-10-07,Bangalore,Indiranagar,Duke 250,Naked,4,240000,960000,New,Arjun,Card
+2196,2024-05-04,Mumbai,Andheri,RC 200,Sports,1,210000,210000,Returning,Sneha,Cash
+2197,2024-06-16,Bangalore,Indiranagar,Duke 200,Naked,1,200000,200000,Returning,Ravi,Cash
+2198,2024-03-10,Mumbai,Powai,Duke 250,Naked,3,240000,720000,Returning,Ravi,Card
+2199,2024-07-14,Mumbai,Andheri,Duke 390,Naked,2,300000,600000,New,Arjun,EMI
+2200,2024-02-27,Mumbai,Andheri,Duke 250,Naked,3,240000,720000,New,Arjun,Cash
